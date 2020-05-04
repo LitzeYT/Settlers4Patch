@@ -1,4 +1,4 @@
-Version 1.2.0 by Sc0uty aka LitZe
+Version 1.2.1 by Sc0uty aka LitZe
 
 Features :
 
@@ -14,10 +14,8 @@ Die Bewohneranzahl des Mittleren Wohnhauses der Trojaner wurde von 20 auf 25 erh
 
 V.1.2.0 Balance Patch
 
-Es gibt nun eine weitere Version mit 2x Geschwindigkeit im Multiplayer
-
 Trojaner
-Goldschmelze wurde in der Geschwindigkeit angepasst, diese ist nun genau so Schnell wie die der Römer,und die Kosten wurden erhöht von 1/3 auf 4/6.
+Die Goldschmelze wurde in der Geschwindigkeit angepasst, diese ist nun genau so Schnell wie die der Römer,und die Kosten wurden erhöht von 1/3 auf 4/6.
 Der Kleine Turm wurde von 3/3 auf 2/3 geändert.
 Die Bogenschützen wurden auf das Niveau der anderen Völker angehoben.
 Die Kosten des Mittleren Wohnhauses wurde auf 4/6 geändert. 
@@ -25,6 +23,8 @@ Die Kosten des Mittleren Wohnhauses wurde auf 4/6 geändert.
 Römer
 Die Sanitäter Heilen statt 3 - 4 - 5 HP nun 3 - 6 - 9 HP
 
+V.1.2.1 
+Kleine Anpassung an der der Goldschmelze & dem Turm der Trojaner
 
 
 Installation:
