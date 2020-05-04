@@ -18,7 +18,7 @@ Es gibt nun eine weitere Version mit 2x Geschwindigkeit im Multiplayer
 
 Trojaner
 Goldschmelze wurde in der Geschwindigkeit angepasst, diese ist nun genau so Schnell wie die der Römer,und die Kosten wurden erhöht von 1/3 auf 4/6.
-Kleine Turm wurde von 3/3 auf 2/3 geändert.
+Der Kleine Turm wurde von 3/3 auf 2/3 geändert.
 Die Bogenschützen wurden auf das Niveau der anderen Völker angehoben.
 Die Kosten des Mittleren Wohnhauses wurde auf 4/6 geändert. 
 
