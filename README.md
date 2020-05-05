@@ -28,31 +28,40 @@ Kleine Anpassung an der der Goldschmelze & dem Turm der Trojaner
 
 V.1.2.2
 
-
+Bugfixes & more
 Es gibt nun eine Exe mit allen Änderungen auf einfacher Geschwindigkeit.
+Ihr erhaltet nun eine Meldung über Minen die keine Resourcen mehr Fördern.
+Der Maya Musik Bug wurde behoben.
+Ein nicht benutzes Trojana Lied wurde hinzugefügt.
 
+ALLE VÖLKER:
 Alle Level 2 Schwertkämpfer haben nun 1 Armor
 Alle Level 3 Schwertkämpfer haben nun 2 Armor
-
-Durch den Armorwert erhalten die Schwertkämpfer die Chance 1 - 2 Schaden zu blocken.
-
 Squadleaders Bonuskampfkraft wurde von 10% auf 17% gestellt.
 Squadleaders Armor wurde um eins erhöht von 2 auf 3.
 
+Durch den Armorwert erhalten die Schwertkämpfer die Chance 1 - 2 Schaden zu blocken.
+
+TROJANA:
 Rucksackkatapultisten Level 1 -> Leben erhöht von 30 auf 60 & Schaden erhöht von 8 auf 35.
 Rucksackkatapultisten Level 2 -> Leben erhöht von 40 auf 85 & Schaden erhöht von 11 auf 30.
 Rucksackkatapultisten Level 3 -> Leben erhöht von 45 auf 95 & Schaden erhöht von 13 auf 50.
 Die Werte des Flächenschadens wurde Angepasst der Level 3 Rucksackkatapulist macht nun am meisten Flächenschaden vorher war es der Level Zweier.
 Die Schadenswerte wurden so enorm erhöht weil sich der Schaden auf die Fläche verteilt, dort Spielt es keine Rolle ob Ein Soldat oder Zehn drin stehen, der Schaden wird immer aufgeteilt.
 
-
+RÖMER:
 Level 1 Medics verursachte Heilung wurde 3 auf 5 Angehoben
 Level 2 Medics verursachte Heilung wurde 6 auf 10 Angehoben
 Level 3 Medics verursachte Heilung wurde 9 auf 15 Angehoben 
 Wir haben herausgefunden das die Medics, ein Prozentualen Wert heilen, am Anfang 100% ihrer Heilkraft bis runter auf 20%, mit diese dennoch ein kleinen Unterschied machen, wurden die Heilwerte erneut angepasst.
 
-Die Angriffsgeschwindigkeit der Blassrohrschützen wurde erhöht.
+MAYA:
+Die Angriffsgeschwindigkeit der Blasrohrschützen wurde erhöht.
 
+Die Hoffnung besteht durch die Änderungen der Einheiten, das die Meta sich ein wenig von den Bogenschützen weg beweget und nun Schlachten mit Variation entstehen.
+
+
+--------------------------------------
 
 Installation:
 
