@@ -1,4 +1,4 @@
-Version 1.2.1 by Sc0uty aka LitZe
+Version 1.2.3 by Sc0uty aka LitZe
 
 Features :
 
@@ -59,6 +59,27 @@ MAYA:
 Die Angriffsgeschwindigkeit der Blasrohrschützen wurde erhöht.
 
 Die Hoffnung besteht durch die Änderungen der Einheiten, das die Meta sich ein wenig von den Bogenschützen weg beweget und nun Schlachten mit Einheiten variationen entstehen.
+
+V.1.2.3
+
+ALLGEMEINE ÄNDERUNGEN :
+
+Der Arbeitsradius des Lazerett wurde verdoppelt.
+Der Arbeitsradius des Jägers wurde verdoppelt % der Arbeitsintervall bis er wieder Jagt wurde halbiert.
+
+
+GEBÄUDE :
+
+Wikinger:
+Das Produktiondelay vom Sägewerk wurde angepasst, es ist nun nicht mehr das Langsamste. 
+
+
+SOLDATEN:
+
+Maya:
+Das Leben der Blasroherschützen wurde verringert. Level 3 190 - 140 Level 2 125 - 110
+
+
 
 Viel Spaß beim Wuseln!
 
