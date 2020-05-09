@@ -7,15 +7,15 @@ https://github.com/LitzeYT/Settlers4Patch/releases
 # Copyright
 Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anwendung, unterliegen dem Copyright von Blue Byte, Ubisoft oder den Erstellern dieser Modifikation. Diese dürfen ohne Genehmigung des jeweiligen Autors weder kopiert, noch auszugsweise weiterverwendet werden. Eingetragene Marken sind nicht gesondert als solche gekennzeichnet.
 
+
 # Modder
-## "Community Patch"
 - LITZE (Main)
 - kdsystem1337
 
-## "Community Patch Grafik"
+## Grafik und Video 
 - Patrick aka Zocker Lounge
 
-## "Editor+"
+##  "Editor+"
 - MuffinMario 
 
 ## "Texturenwechsler"
