@@ -1,6 +1,4 @@
-#Version 2 [Release]
-
-#Version 2.0.0 [Release Version]
+# Version 2.0.0 [Release Version]
 
 **MISC
 
@@ -25,7 +23,7 @@ Durch diese Optimierung sollten langsamere Rechner besser hinterher kommen, dadu
 
 -------------------------------------------------------------------------------------------------------------------------
 
-## ALLGEMEINE ÄNDERUNGEN
+# ALLGEMEINE ÄNDERUNGEN
 
 Die Siedler Anzahl wurde für jeden Spieler auf 65535 gesetzt. [V.1.0.0]
 Die Maximale Träger Anzahl wurde auf 65535 gesetzt. [V1.0.0]
