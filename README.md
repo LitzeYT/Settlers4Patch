@@ -108,9 +108,8 @@ Ich übernehme keine Haftung für Schäden an Savegames, nach Tests sollte es ab
 Kontakt:
 Discord : Sc0uty#8434 
 
-Credits:
-Danke an Zeichenkünstler & Archenwaechter fürs Testen.
-Danke an Julian | SiedlendeEnte für die Unterstützung beim Modden!
+Unterstützer:
+Danke an Zeichenkünstler & Archenwaechter, SiedelneEnte, King Jo & Hörer
 
 https://www.twitch.tv/litzeyt lasst mir gerne ein Follow da! :)
 Fragen & Anregungen gerne an mich :)
