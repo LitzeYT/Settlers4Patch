@@ -79,6 +79,9 @@ SOLDATEN:
 Maya:
 Das Leben der Blasroherschützen wurde verringert. Level 3 190 - 140 Level 2 125 - 110
 
+V.1.3.0
+
+Das Spiel hat nun kein RAM Limit von 2GB mehr, das führt dazu das dass Spiel generell perfomanter wird.
 
 
 Viel Spaß beim Wuseln!
