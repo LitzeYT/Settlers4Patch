@@ -2,23 +2,23 @@
 
 **MISC
 
-Der offizielle Community Patch Launcher ist erschienen[V2.0.0]
+Der offizielle Community Patch Launcher ist erschienen
 
 **ALLGEMEINE ÄNDERUNGEN 
 
-Das KI verhalten wurde grundlegend überarbeitet[V2.0.0]
+Das KI verhalten wurde grundlegend überarbeitet
 
 **BALANCE
 
 ALLE VÖLKER:
-Auf der Karte sind nun deutlich mehr Jagbare tiere vorhanden[2.0.0]
+Auf der Karte sind nun deutlich mehr Jagbare tiere vorhanden
 
 Wikinger:
-Die Geschwindigkeit des Wasserwerkes wurde erhöht.[V2.0.0]
+Die Geschwindigkeit des Wasserwerkes wurde erhöht.
 
 **BUGFIXES
 
-Die Netzwerkseingabeverzögerung wurde Optimiert.[V2.0.0] 
+Die Netzwerkseingabeverzögerung wurde Optimiert.
 Durch diese Optimierung sollten langsamere Rechner besser hinterher kommen, dadurch sollten weniger DeSyncs auftreten.
 
 -------------------------------------------------------------------------------------------------------------------------
