@@ -1,6 +1,11 @@
 # Downloads
 https://github.com/LitzeYT/Settlers4Patch/releases
 
+# Installation
+
+Sollte es Probleme beim Starten geben, bitte fügt eine Ausnahme bei eurem Virenscanner für das Programm hinzu & startet das Programm als Admin. 
+Der Scannner schlägt an, weil wir kein Offizielles Zertifkat besitzen.
+
 # Disclaimer
 "The Settlers IV Community Patch" ist eine von Usern erstellte Modifikation. Durch die Installation werden Originaldateien von "The Settlers IV HE" verändert. Diese Veränderungen lassen sich unter Umständen nur durch eine Neuinstallation des Programms oder durch ein Zurückspielen der vorher gesicherten Dateien wieder beseitigen. Die Installation erfolgt ausschließlich auf eigenes Risiko. Weder der Ersteller dieser Modifikation, noch der Ersteller des Installationsprogramms, noch der Vertreiber dieser Software können wegen eventuell entstandener Schäden am System oder an anderen Programmen in irgendeiner Weise haftbar gemacht werden.
 
