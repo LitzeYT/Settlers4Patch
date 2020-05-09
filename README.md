@@ -27,7 +27,7 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 - Cybertom 
 
 ## Unterstützer und Tester
-- Zeichenkünstler 
+- Nuevo Ordenador
 - Archenwaechter
 - Hörer 
 - King Jo
