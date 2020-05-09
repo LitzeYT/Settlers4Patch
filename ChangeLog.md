@@ -7,6 +7,7 @@ Der offizielle Community Patch Launcher ist erschienen
 **ALLGEMEINE ÄNDERUNGEN 
 
 Das KI verhalten wurde grundlegend überarbeitet
+Kleinere Textanpassungen
 
 **BALANCE
 
