@@ -1,1 +1,1 @@
-ChangeLog
+ChangeLog BetaRelease
