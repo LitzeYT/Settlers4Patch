@@ -1,4 +1,4 @@
-Version 1.2.3 by Sc0uty aka LitZe
+Version 1.3.0 by Sc0uty aka LitZe
 
 Features :
 
