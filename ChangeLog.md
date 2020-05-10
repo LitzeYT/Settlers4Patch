@@ -1,22 +1,22 @@
 # Version 2.0.0B [Release Version]
 
-**MISC
+## MISC
 
 Der offizielle Community Patch Launcher ist erschienen
 
-**ALLGEMEINE ÄNDERUNGEN 
+## ALLGEMEINE ÄNDERUNGEN 
 
 Das KI verhalten wurde grundlegend überarbeitet
 
-**BALANCE
+## BALANCE
 
-ALLE VÖLKER:
+### ALLE VÖLKER:
 Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden
 
-Wikinger:
+### Wikinger:
 Die Geschwindigkeit des Wasserwerkes wurde erhöht.
 
-**BUGFIXES
+## BUGFIXES
 
 Die Netzwerkseingabeverzögerung wurde optimiert.
 Durch diese Optimierung sollten langsamere Rechner besser hinterherkommen, dadurch sollten weniger DESYNCs auftreten.
