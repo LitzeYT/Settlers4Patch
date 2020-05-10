@@ -13,6 +13,12 @@ Uplay wird weiterhin benötigt! Die App startet das Spiel auch weiterhin über U
 ### Mein VirenScanner schlägt an!
 Sollte es Probleme beim Starten geben, bitte fügt eine Ausnahme bei eurem Virenscanner für das Programm hinzu. Der Scanner schlägt u.a. an, weil wir kein offizielles Zertifkat besitzen.
 
+### Wird Windows 7 Unterstützt?
+Windows 7 wird bereits von Ubisoft nicht mehr vollständig Unterstützt. Es kann Funktionieren, muss aber nicht.
+
+### Net.FrameWork Fehlt?
+[Net.FrameWork 4.6.2 Download](https://www.microsoft.com/de-de/download/details.aspx?id=53344)
+
 ### Probleme beim Starten?
 Im zweifelsfall bitte sowohl Launcher als auch Siedler IV Deinstallieren. Den Uplay Games Ordner von TheSettlers4 löschen.
 "The Settlers IV History Edition" neu Installieren. 
