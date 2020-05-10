@@ -83,7 +83,7 @@ Die Geschwindigkeit des Wasserwerkes wurde erhöht. [V2.0.0]
 
 Der Musik Bug der Maya wurde behoben. [V1.2.2]
 Ihr erhaltet nun eine Meldung über Minen die keine Ressourcen mehr Fördern, diese war zuvor deaktiviert. [V1.2.2]
-Ihr erhaltet nun eine Meldung darüber das der Fische keine Fische mehr in seinem Arbeitsbereich findet, diese war zuvor deaktiviert. [V1.2.2]
+Verbesserung/Aktivierung der Meldung: Ein Fischer findet keine Fische mehr in seinem Arbeitsbereich. [V1.2.2]
 
 Die Netzwerkseingabeverzögerung wurde Optimiert. [V2.0.0]
 
