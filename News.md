@@ -8,6 +8,6 @@ Optimierung Oberfläche und Stabilität der App.
 
 
 ## Wichtige Informationen
-[Readme](https://github.com/LitzeYT/Settlers4Patch/blob/master/README.md) 
-[FAQ](https://github.com/LitzeYT/Settlers4Patch/blob/master/FAQ.md)
-[Changelog](https://github.com/LitzeYT/Settlers4Patch/blob/master/ChangeLog.md)
+[Readme](https://github.com/LitzeYT/Settlers4Patch/blob/master/README.md)   
+[FAQ](https://github.com/LitzeYT/Settlers4Patch/blob/master/FAQ.md)  
+[Changelog](https://github.com/LitzeYT/Settlers4Patch/blob/master/ChangeLog.md)  
