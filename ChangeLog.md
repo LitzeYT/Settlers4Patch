@@ -82,13 +82,13 @@ Die Geschwindigkeit des Wasserwerkes wurde erhöht. [V2.0.0]
 
 ## BUGFIX
 
-Der Musik Bug der Maya wurde behoben. [V1.2.2]
-Aktivierung der Meldung: Eine Mine findet keine Ressourcen mehr. [V1.2.2]
-Verbesserung/Aktivierung der Meldung: Ein Fischer findet keine Fische mehr in seinem Arbeitsbereich. [V1.2.2]
+Der Musik Bug der Maya wurde behoben. [V1.2.2] 
+Aktivierung der Meldung: Eine Mine findet keine Ressourcen mehr. [V1.2.2] 
+Verbesserung/Aktivierung der Meldung: Ein Fischer findet keine Fische mehr in seinem Arbeitsbereich. [V1.2.2] 
 
-Die Netzwerkseingabeverzögerung wurde Optimiert. [V2.0.0]
+Die Netzwerkseingabeverzögerung wurde Optimiert. [V2.0.0] 
 
 ## MISC
 
-Ein nicht verwendetes Lied der Trojaner wurde hinzugefügt. [V1.2.2]
-Kleinere Textanpassungen. [V2.0.0]
+Ein nicht verwendetes Lied der Trojaner wurde hinzugefügt. [V1.2.2] 
+Kleinere Textanpassungen. [V2.0.0] 
