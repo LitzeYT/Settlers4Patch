@@ -36,7 +36,7 @@ Das KI verhalten wurde grundlegend überarbeitet. [V2.0.0]
 
 ## BALANCE
 
-ALLE VÖLKER:
+### ALLE VÖLKER:
 Alle Level 2 Schwertkämpfer haben nun einen Rüstungswert von 1. [V1.2.0]  
 Alle Level 3 Schwertkämpfer haben nun einen Rüstungswert von 2. [V1.2.0]  
 Die Bonuskampfkraft von Squadleadern wurde von 10% auf 17% erhöht. [V1.2.0]  
@@ -48,7 +48,7 @@ Der Arbeitsradius des Jägers wurde verdoppelt. [V1.2.3]
 Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden. [2.0.0]  
 
 
-Trojaner
+### Trojaner
 Die Bewohneranzahl des Mittleren Wohnhauses der Trojaner wurde von 20 auf 25 erhöht. [V1.2.0]  
 Der Kleine Turm wurde von 3/3 (Holz/Stein) auf 2/3 geändert. [V1.2.0]  
 Die Geschwindigkeit der Goldschmelze wurde erhöht. [V1.2.0]  
@@ -60,23 +60,23 @@ Das Leben der Rucksackkatapultisten wurde erhöht. [V1.2.2]
     Level 3 von 45 auf 95  
 Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
 Der Schaden der Rucksackkatapultisten wurde erhöht. [V1.2.2]  
-    Level 1 von 8 auf 35
-    Level 2 von 11 auf 40
-    Level 3 von 13 auf 50
+    Level 1 von 8 auf 35  
+    Level 2 von 11 auf 40  
+    Level 3 von 13 auf 50  
 
-Römer:
-Die verursachte Heilung der Medics wurde erhöht. [V1.2.2]
+### Römer:
+Die verursachte Heilung der Medics wurde erhöht. [V1.2.2]  
    Level 1 von 3 auf 5
    Level 2 von 6 auf 10
    Level 3 von 9 auf 15
 
-Maya: 
+### Maya: 
 Die Angriffsgeschwindigkeit der Blasrohrschützen wurde erhöht. [V1.2.2]
 Das Leben der Blasrohrschützen wurde verringert. [V1.2.3]
     Level 2 von 125 auf 110
     Level 3 von 190 auf 140
 
-Wikinger:
+### Wikinger:
 Die Geschwindigkeit des Sägewerkes wurde erhöht. [V1.2.3]
 Die Geschwindigkeit des Wasserwerkes wurde erhöht. [V2.0.0]
 
