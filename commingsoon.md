@@ -4,6 +4,9 @@
 ### Mehrsprachigkeit
 - Englisch
 - bei Bedarf weitere Sprachen
+
+### Speicherung der Spielgeschwindigkeit
+
 ### Kartenauswahl in der App
 
 ## The Settlers IV Community Patch
