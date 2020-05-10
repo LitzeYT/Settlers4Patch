@@ -57,7 +57,7 @@ Das Leben der Rucksackkatapultisten wurde erhöht. [V1.2.2]
     Level 1 von 30 auf 60
     Level 2 von 40 auf 85
     Level 3 von 45 auf 95
-Der Rucksackkatapultist macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
+Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
 Der Schaden der Rucksackkatapultisten wurde erhöht. [V1.2.2]
     Level 1 von 8 auf 35
     Level 2 von 11 auf 40
