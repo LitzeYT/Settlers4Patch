@@ -1,4 +1,4 @@
-# Version 2.0.0B [Release Version]
+# Version 2.0 [Release Version]
 
 ## MISC
 
