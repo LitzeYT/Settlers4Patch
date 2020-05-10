@@ -2,10 +2,9 @@
 https://github.com/LitzeYT/Settlers4Patch/releases
 
 # Installation
+Für diese Modifikation wird eine originale UPLAY-Version des Spiels benötigt, es handelt sich hier nicht um eine NOCD.EXE!
 
-Für diese Modifikation wird eine originale UPLAY-Version des Spiels benötigt, es handelt such hier nicht um eine NOCD.EXE!
-Sollte es Probleme beim Starten geben, bitte fügt eine Ausnahme bei eurem Virenscanner für das Programm hinzu & startet das Programm als Admin. 
-Der Scanner schlägt u.a. an, weil wir kein offizielles Zertifkat besitzen.
+Sollte es Probleme beim Starten geben, bitte fügt eine Ausnahme bei eurem Virenscanner für das Programm hinzu & startet das Programm als Admin. Der Scanner schlägt u.a. an, weil wir kein offizielles Zertifkat besitzen.
 
 
 # Disclaimer
@@ -17,7 +16,7 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 
 # Modder
 - LITZE (Main)
-- kdsystem1337
+- KDSYSTEM1337
 
 ## Grafik und Video 
 - Patrick aka Zocker Lounge
