@@ -1,4 +1,4 @@
-# Version 2.0.0 [Release Version]
+# Version 2.0.0B [Release Version]
 
 **MISC
 
@@ -50,6 +50,7 @@ Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden. [2.0.0]
 
 Trojaner
 Die Bewohneranzahl des Mittleren Wohnhauses der Trojaner wurde von 20 auf 25 erhöht. [V1.2.0]
+Der Kleine Turm wurde von 3/3 (Holz/Stein) auf 2/3 geändert. [V1.2.0]
 Die Geschwindigkeit der Goldschmelze wurde erhöht. [V1.2.0]
 Die Bogenschützen wurden auf das Niveau der anderen Völker angehoben. [V1.2.0]
 Die Baukosten der Goldschmelze wurde von 1 Brett 3 Steine auf 4 Bretter 6 Steine angehoben. [V1.2.2]
