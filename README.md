@@ -14,7 +14,7 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 
 # Modder
 - LITZE (Main)
-- KDSYSTEM1337
+- KDSYSTEM1337 (Launcher)
 
 ## Grafik und Video 
 - Patrick aka Zocker Lounge
