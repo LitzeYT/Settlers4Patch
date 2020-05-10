@@ -1,7 +1,6 @@
-# Downloads
-https://github.com/LitzeYT/Settlers4Patch/releases
+# Informationen
+[Downloads und Releases](https://github.com/LitzeYT/Settlers4Patch/releases)
 
-# Wichtige Informationen:
 [FAQ](https://github.com/LitzeYT/Settlers4Patch/blob/master/FAQ.md)  
 [News](https://github.com/LitzeYT/Settlers4Patch/blob/master/News.md)  
 [Changelog](https://github.com/LitzeYT/Settlers4Patch/blob/master/ChangeLog.md)  
