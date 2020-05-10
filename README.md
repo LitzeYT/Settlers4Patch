@@ -3,7 +3,7 @@ https://github.com/LitzeYT/Settlers4Patch/releases
 
 # Wichtige Informationen:
 [FAQ](https://github.com/LitzeYT/Settlers4Patch/blob/master/FAQ.md)  
-[News](hhttps://github.com/LitzeYT/Settlers4Patch/blob/master/News.md)  
+[News](https://github.com/LitzeYT/Settlers4Patch/blob/master/News.md)  
 [Changelog](https://github.com/LitzeYT/Settlers4Patch/blob/master/ChangeLog.md)  
 
 # Disclaimer
