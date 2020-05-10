@@ -32,4 +32,4 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 - Archenwaechter
 - Hörer 
 - King Jo
-- SiedlendeEnte
+- SiedelndeEnte
