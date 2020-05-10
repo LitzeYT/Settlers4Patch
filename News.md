@@ -1,6 +1,5 @@
 # News
-## Release Version 3.0.1517 "The Settlers IV Community Patch" ist nun in der Release Version 3.0.1517 verfügbar.
-
+## Release "The Settlers IV Community Patch" Version 3.0.1517 
 
 Anzeige der Spielversion in der App und im Hauptmenü.  
 Vebesserung des Sicherungsprozesses in der App.  
