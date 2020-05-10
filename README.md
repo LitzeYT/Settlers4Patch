@@ -1,11 +1,10 @@
 # Downloads
 https://github.com/LitzeYT/Settlers4Patch/releases
 
-# Installation
-Für diese Modifikation wird eine originale UPLAY-Version des Spiels benötigt, es handelt sich hier nicht um eine NOCD.EXE!
-
-Sollte es Probleme beim Starten geben, bitte fügt eine Ausnahme bei eurem Virenscanner für das Programm hinzu & startet das Programm als Admin. Der Scanner schlägt u.a. an, weil wir kein offizielles Zertifkat besitzen.
-
+# Wichtige Informationen:
+[FAQ](https://github.com/LitzeYT/Settlers4Patch/blob/master/FAQ.md)  
+[News](hhttps://github.com/LitzeYT/Settlers4Patch/blob/master/News.md)   
+[Changelog](https://github.com/LitzeYT/Settlers4Patch/blob/master/ChangeLog.md)  
 
 # Disclaimer
 "The Settlers IV Community Patch" ist eine von Usern erstellte Modifikation. Durch die Installation werden Originaldateien von "The Settlers IV HE" verändert. Diese Veränderungen lassen sich unter Umständen nur durch eine Neuinstallation des Programms oder durch ein Zurückspielen der vorher gesicherten Dateien wieder beseitigen. Die Installation erfolgt ausschließlich auf eigenes Risiko. Weder der Ersteller dieser Modifikation, noch der Ersteller des Installationsprogramms, noch der Vertreiber dieser Software können wegen eventuell entstandener Schäden am System oder an anderen Programmen in irgendeiner Weise haftbar gemacht werden.
