@@ -1,4 +1,4 @@
-# APP
+# The Settlers IV Community Patch APP
 
 ## App 
 Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
