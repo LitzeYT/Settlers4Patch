@@ -31,3 +31,7 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 - Hörer 
 - King Jo
 - SiedelndeEnte
+
+### English Translation
+KingJo
+moyy
