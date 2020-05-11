@@ -11,8 +11,8 @@ Version selection "Community Patch" or "History Edition".
 Selection of the playing speed.
 
 ### TOOLS
-Contains the Editor+ of MuffinMario.
-Contains the texture changer of Cybertom.
+Contains the Editor+ of MuffinMario.  
+Contains the texture changer of Cybertom.  
 
 ### The Settlers IV Community Patch
 All changes in the ChangeLog.
