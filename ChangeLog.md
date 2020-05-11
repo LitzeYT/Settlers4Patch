@@ -9,6 +9,7 @@ Sicherung der "History Edition".  [V3.0.1517]
 
 ### FEATURES
 Auswahl der Spielgeschwindigkeit. [V3.0.1517]  
+Speicherung der Spielgeschwindigkeit.  [V3.1.1520]  
 Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
 
 ### TOOLS
