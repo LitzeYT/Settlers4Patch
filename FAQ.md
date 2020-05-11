@@ -19,7 +19,7 @@ Windows 7 wird bereits von Ubisoft nicht mehr vollständig Unterstützt. Es kann
 ### Net.FrameWork Fehlt?
 [Net.FrameWork 4.6.2 Download](https://www.microsoft.com/de-de/download/details.aspx?id=53344)
 
-#### Zurück zur History Edition
+### Zurück zur History Edition
 Wenn eine Sicherung erstellt wurde, muss nur auf unten links auf die History Edition gewechselt werden. Die Sicherung wird dann wiedereingespielt.
 
 ### Probleme beim Starten?
