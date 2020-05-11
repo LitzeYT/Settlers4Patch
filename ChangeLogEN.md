@@ -37,7 +37,7 @@ Squadleader haben nun einen Rüstungswert von 3. [V1.2.0]
 
 Squadleaders now have an armor value of 3. [V1.2.0]
 
-The working radius of the military hospital has been doubled. [V1.2.3]
+The working radius of the military hospital has been doubled. [V1.2.3]  
 The working radius of the hunter has been doubled. [V1.2.3]
 
 The map now contains significantly more huntable animals. [2.0.0]
