@@ -22,7 +22,7 @@ All graphics and text content, as well as all other information in this applicat
 ## "Editor+"
 - MuffinMario 
 
-## [ Texture Changing ]
+## Texture Changing
 - Cybertom 
 
 ## Supporters and testers
