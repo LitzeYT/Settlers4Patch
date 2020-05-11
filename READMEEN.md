@@ -33,5 +33,5 @@ All graphics and text content, as well as all other information in this applicat
 - SiedelndeEnte
 
 ### English Translation
-KingJo
-moyy
+- KingJo
+- moyy
