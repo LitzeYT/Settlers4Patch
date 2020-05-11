@@ -49,7 +49,7 @@ The Small Tower was changed from 3/3 (wood/stone) to 2/3. [V1.2.0]
 The speed of gold smelting has been increased. [V1.2.0]
 The archers have been raised to the level of the other races. [V1.2.0]
 The construction cost of the gold smelting was increased from 1 board 3 stones to 4 boards 6 stones. [V1.2.2]
-The life of the backpack catapulters has been increased. [V1.2.2]
+The life of the backpack catapulters has been increased. [V1.2.2]/n
     Level 1 from 30 to 60
     Level 2 from 40 to 85
     Level 3 from 45 to 95
