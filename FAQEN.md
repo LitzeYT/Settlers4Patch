@@ -26,8 +26,8 @@ Once a backup has been created, you only need to switch to the History Edition i
 If in doubt, please uninstall both Launcher and Settlers IV. Delete the Uplay Games folder of TheSettlers4.
 Afterwards reinstall "The Settlers IV History Edition". 
 
-#### What happens to my settings during the reinstallation? 
+### What happens to my settings during the reinstallation? 
 If necessary save the files "GameSettings.cfg", "MiscData1.cfg" and "MiscData2.cfg" in the Config folder.
 
-#### What happens to my savegames when I reinstall? 
+### What happens to my savegames when I reinstall? 
 They are located under "Documents\TheSettlers4\Save" and are not changed. But backups are always useful!
