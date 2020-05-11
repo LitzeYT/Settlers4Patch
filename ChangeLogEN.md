@@ -3,17 +3,18 @@
 ## APP 
 Automatic download of the newest app and game version. [V3.0.1517]  
 Version selection "Community Patch" or "History Edition". [V3.0.1517]  
-Language selection added.  [V3.1.1519]  
+Language selection added.  [V3.1.1520]  
 Backup of the "History Edition". [V3.0.1517] 
 
 ### FEATURES
 Gamespeed selection. [V3.0.1517] 
+Storage of the playing speed. [V3.1.1520]
 Indicator of game version in app and game main menu. [V3.0.1517]  
 
 ### TOOLS
 Contains Editor+ of MuffinMario. [V3.0.1517]  
 Contains Texture-Changer of Cybertom. [V3.0.1517]  
-Setup, folder and reset button added. [V3.1.1519]
+Setup, folder and reset button added. [V3.1.1520]
 
 
 ## GENERAL CHANGES
