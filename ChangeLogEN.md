@@ -71,7 +71,7 @@ The life of the blowgunners has been decreased. [V1.2.3]
     Level 3 from 190 to 140  
 
 ### Vikings:
-The speed of the sawmill has been increased. [V1.2.3]
+The speed of the sawmill has been increased. [V1.2.3]  
 The speed of the waterworks has been increased. [V2.0.0]
 
 ## BUGFIX
