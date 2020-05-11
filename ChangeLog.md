@@ -4,7 +4,7 @@
 ## APP 
 Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
 Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]  
-Sprachauswahl der App hinzugefügt.  [V3.1.1519]  
+Sprachauswahl der App hinzugefügt.  [V3.1.1520]  
 Sicherung der "History Edition".  [V3.0.1517] 
 
 ### FEATURES
