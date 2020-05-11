@@ -1,8 +1,8 @@
 # FAQ
 ## Installation
 
-#### Was passiert bei der Installation meinen Einstellungen? 
-Die Einstellungen werden nicht verändert, sofern nicht beschrieben.
+#### Was passiert bei der Installation mit meinen Einstellungen? 
+Die Einstellungen werden nicht verändert, sofern nicht anders beschrieben.
 
 ### Was benötige ich?
 Für diese Modifikation wird eine Originale Uplay "The Settlers IV History Edition" Version benötigt. Es ist keine NOCD.exe enthalten!  
@@ -24,9 +24,9 @@ Wenn eine Sicherung erstellt wurde, muss nur auf unten links auf die History Edi
 
 ### Probleme beim Starten?
 Im zweifelsfall bitte sowohl Launcher als auch Siedler IV Deinstallieren. Den Uplay Games Ordner von TheSettlers4 löschen.
-"The Settlers IV History Edition" neu Installieren. 
+Anschließend "The Settlers IV History Edition" neu Installieren. 
 
-#### Was passiert bei der Neuinstallation meinen Einstellungen? 
+#### Was passiert bei der Neuinstallation mit meinen Einstellungen? 
 Bei Bedarf die Dateien "GameSettings.cfg", "MiscData1.cfg" und "MiscData2.cfg" im Config Ordner Sichern.
 
 #### Was passiert bei der Neuinstallation mit meinen Spielständen? 
