@@ -1,5 +1,5 @@
 
-# The Settlers IV History Edition with Community Patch ChangeLog
+# The Settlers IV Community Patch ChangeLog
 
 ## APP 
 Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
