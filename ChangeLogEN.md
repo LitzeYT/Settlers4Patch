@@ -30,25 +30,25 @@ KI behaviour fundamentaly revised. [V2.0.0]
 ## BALANCE
 
 ### All races:
-All Level 2 swordsman now have armour of 1. [V1.2.0]
-All Level 3 swordsman now have armour of 2. [V1.2.0]
-The bonus combat power of squadleaders has been increased from 10% to 17%. [V1.2.0]
+All Level 2 swordsman now have armour of 1. [V1.2.0]  
+All Level 3 swordsman now have armour of 2. [V1.2.0]  
+The bonus combat power of squadleaders has been increased from 10% to 17%. [V1.2.0]  
 Squadleader haben nun einen Rüstungswert von 3. [V1.2.0]  
 
 Squadleaders now have an armor value of 3. [V1.2.0]
 
 The working radius of the military hospital has been doubled. [V1.2.3]  
-The working radius of the hunter has been doubled. [V1.2.3]
+The working radius of the hunter has been doubled. [V1.2.3]  
 
 The map now contains significantly more huntable animals. [2.0.0]
 
 
 ### Trojans
-The number of inhabitants/settlers of the Trojan's Middle Residence was increased from 20 to 25. [V1.2.0]
-The Small Tower was changed from 3/3 (wood/stone) to 2/3. [V1.2.0]
-The speed of gold smelting has been increased. [V1.2.0]
-The archers have been raised to the level of the other races. [V1.2.0]
-The construction cost of the gold smelting was increased from 1 board 3 stones to 4 boards 6 stones. [V1.2.2]
+The number of inhabitants/settlers of the Trojan's Middle Residence was increased from 20 to 25. [V1.2.0]  
+The Small Tower was changed from 3/3 (wood/stone) to 2/3. [V1.2.0]  
+The speed of gold smelting has been increased. [V1.2.0]  
+The archers have been raised to the level of the other races. [V1.2.0]  
+The construction cost of the gold smelting was increased from 1 board 3 stones to 4 boards 6 stones. [V1.2.2]  
 The life of the backpack catapulters has been increased. [V1.2.2]  
     Level 1 from 30 to 60  
     Level 2 from 40 to 85  
@@ -65,7 +65,7 @@ Caused healing of the Medics has been elevated. [V1.2.2]
     Level 3 from 9 to 15  
 
 ### Maya: 
-The attack speed of the blowpipe gunners has been increased. [V1.2.2]
+The attack speed of the blowpipe gunners has been increased. [V1.2.2]  
 The life of the blowgunners has been decreased. [V1.2.3]  
     Level 2 from 125 to 110  
     Level 3 from 190 to 140  
@@ -76,8 +76,8 @@ The speed of the waterworks has been increased. [V2.0.0]
 
 ## BUGFIX
 
-The Mayan music bug has been fixed. [V1.2.2]
-Activation of the message: A mine cannot find resources anymore. [V1.2.2]
+The Mayan music bug has been fixed. [V1.2.2]  
+Activation of the message: A mine cannot find resources anymore. [V1.2.2]  
 Improvement/Activation of the message: A fisherman can no longer find fish in his working area. [V1.2.2]
 
 The network input delay was optimized. [V2.0.0]
