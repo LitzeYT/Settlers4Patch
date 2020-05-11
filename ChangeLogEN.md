@@ -49,26 +49,26 @@ The Small Tower was changed from 3/3 (wood/stone) to 2/3. [V1.2.0]
 The speed of gold smelting has been increased. [V1.2.0]
 The archers have been raised to the level of the other races. [V1.2.0]
 The construction cost of the gold smelting was increased from 1 board 3 stones to 4 boards 6 stones. [V1.2.2]
-The life of the backpack catapulters has been increased. [V1.2.2] \n
-    Level 1 from 30 to 60 \n
-    Level 2 from 40 to 85
-    Level 3 from 45 to 95
-The Backpack Catapultist Level 3 now does the most area damage, before it was the Level 2 Backpack Catapultist. Backpack Catapultist damage has been increased. [V1.2.2]
-    Level 1 from 8 to 35
-    Level 2 from 11 to 40
-    Level 3 from 13 to 50
+The life of the backpack catapulters has been increased. [V1.2.2]  
+    Level 1 from 30 to 60  
+    Level 2 from 40 to 85  
+    Level 3 from 45 to 95  
+The Backpack Catapultist Level 3 now does the most area damage, before it was the Level 2 Backpack Catapultist. Backpack Catapultist damage has been increased. [V1.2.2]  
+    Level 1 from 8 to 35  
+    Level 2 from 11 to 40  
+    Level 3 from 13 to 50  
 
 ### Romans:
-Caused healing of the Medics has been elevated. [V1.2.2]
-    Level 1 from 3 to 5
-    Level 2 from 6 to 10
-    Level 3 from 9 to 15
+Caused healing of the Medics has been elevated. [V1.2.2]  
+    Level 1 from 3 to 5  
+    Level 2 from 6 to 10  
+    Level 3 from 9 to 15  
 
 ### Maya: 
 The attack speed of the blowpipe gunners has been increased. [V1.2.2]
-The life of the blowgunners has been decreased. [V1.2.3]
-    Level 2 from 125 to 110
-    Level 3 from 190 to 140
+The life of the blowgunners has been decreased. [V1.2.3]  
+    Level 2 from 125 to 110  
+    Level 3 from 190 to 140  
 
 ### Vikings:
 The speed of the sawmill has been increased. [V1.2.3]
