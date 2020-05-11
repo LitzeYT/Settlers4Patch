@@ -1,4 +1,5 @@
-# The Settlers IV Community Patch APP
+
+# The Settlers IV Community Patch
 
 ## App 
 Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
@@ -6,16 +7,16 @@ Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]
 Sprachauswahl der App hinzugefügt.  [V3.1.1519]  
 Sicherung der "History Edition".  [V3.0.1517] 
 
-## Features
+### Features
 Auswahl der Spielgeschwindigkeit. [V3.0.1517] 
 Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
 
-## Tools
+### Tools
 Enthält den Editor+ von MuffinMario. [V3.0.1517]  
 Enthält den Texturenwechsler von Cybertom. [V3.0.1517]  
 Setup, Ordner und Reset Button hinzugefügt [V3.1.1519]
 
-# The Settlers IV Community Patch
+
 ## ALLGEMEINE ÄNDERUNGEN
 
 Die Siedler Anzahl wurde für jeden Spieler auf 65535 gesetzt. [V.1.0.0]  
