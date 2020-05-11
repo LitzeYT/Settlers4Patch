@@ -50,7 +50,7 @@ Die Bogenschützen wurden auf das Niveau der anderen Völker angehoben. [V1.2.0]
 Die Baukosten der Goldschmelze wurde von 1 Brett 3 Steine auf 4 Bretter 6 Steine angehoben. [V1.2.2]  
 Das Leben der Rucksackkatapultisten wurde erhöht. [V1.2.2]  
     Level 1 von 30 auf 60  
-    Level 2 von 40 auf 85    
+    Level 2 von 40 auf 85  
     Level 3 von 45 auf 95  
 Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
 Der Schaden der Rucksackkatapultisten wurde erhöht. [V1.2.2]  
