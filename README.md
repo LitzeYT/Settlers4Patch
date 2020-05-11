@@ -32,6 +32,6 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 - King Jo
 - SiedelndeEnte
 
-### English Translation
+## English Translation
 - KingJo
 - moyy
