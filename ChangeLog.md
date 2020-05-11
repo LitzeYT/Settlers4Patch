@@ -1,33 +1,22 @@
-# Version 3.0.1517 [Release Version]
+# APP
 
-## MISC
+## App 
+Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
+Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]  
+Sprachauswahl der App hinzugefügt.  [V3.1.1519]  
+Sicherung der "History Edition".  [V3.0.1517] 
 
-"The Settlers IV Community Patch" ist nun in der Release Version Release Version 3.0.1517 verfügbar.
+## Features
+Auswahl der Spielgeschwindigkeit. [V3.0.1517] 
+Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
 
-Anzeige der Spielversion in der App und im Hauptmenü.  
-Vebesserung des Sicherungsprozesses in der App.  
-Optimierung Oberfläche und Stabilität der App.  
+## Tools
+Enthält den Editor+ von MuffinMario. [V3.0.1517]  
+Enthält den Texturenwechsler von Cybertom. [V3.0.1517]  
+Setup, Ordner und Reset Button hinzugefügt [V3.1.1519]
 
-## ALLGEMEINE ÄNDERUNGEN 
-
-Das KI verhalten wurde grundlegend überarbeitet.  
-
-## BALANCE
-
-### ALLE VÖLKER:
-Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden.  
-
-### Wikinger:
-Die Geschwindigkeit des Wasserwerkes wurde erhöht.  
-
-## BUGFIXES
-
-Die Netzwerkseingabeverzögerung wurde optimiert.  
-Durch diese Optimierung sollten langsamere Rechner besser hinterherkommen, dadurch sollten weniger DESYNCs auftreten.  
-
--------------------------------------------------------------------------------------------------------------------------
-
-# ALLGEMEINE ÄNDERUNGEN
+# The Settlers IV Community Patch
+## ALLGEMEINE ÄNDERUNGEN
 
 Die Siedler Anzahl wurde für jeden Spieler auf 65535 gesetzt. [V.1.0.0]  
 Die Maximale Träger Anzahl wurde auf 65535 gesetzt. [V1.0.0]  
@@ -96,3 +85,5 @@ Die Netzwerkseingabeverzögerung wurde Optimiert. [V2.0.0]
 
 Ein nicht verwendetes Lied der Trojaner wurde hinzugefügt. [V1.2.2]  
 Kleinere Textanpassungen. [V2.0.0]  
+
+
