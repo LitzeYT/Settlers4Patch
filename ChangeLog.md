@@ -60,15 +60,15 @@ Der Schaden der Rucksackkatapultisten wurde erhöht. [V1.2.2]
 
 ### Römer:
 Die verursachte Heilung der Medics wurde erhöht. [V1.2.2]  
-   Level 1 von 3 auf 5
-   Level 2 von 6 auf 10
-   Level 3 von 9 auf 15
+   Level 1 von 3 auf 5  
+   Level 2 von 6 auf 10  
+   Level 3 von 9 auf 15  
 
 ### Maya: 
 Die Angriffsgeschwindigkeit der Blasrohrschützen wurde erhöht. [V1.2.2]
-Das Leben der Blasrohrschützen wurde verringert. [V1.2.3]
-    Level 2 von 125 auf 110
-    Level 3 von 190 auf 140
+Das Leben der Blasrohrschützen wurde verringert. [V1.2.3]  
+    Level 2 von 125 auf 110  
+    Level 3 von 190 auf 140  
 
 ### Wikinger:
 Die Geschwindigkeit des Sägewerkes wurde erhöht. [V1.2.3]
