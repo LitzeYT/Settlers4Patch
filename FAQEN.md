@@ -2,16 +2,16 @@
 ## Installation
 
 #### What happens to my settings during installation? 
-The settings are not changed unless described.
+The settings are not changed unless stated otherwise.
 
 ### What do I need?
 For this modification an original Uplay "The Settlers IV History Edition" version is required. There is no NOCD.exe included!  
 
-### Do I still need Uplay then?
+### Do I still need Uplay?
 Uplay is still needed! The app still starts the game via Uplay. 
 
-### My virus scanner is working!
-If there are problems starting the app, please add an exception to your virus scanner for the program. The scanner is working because we do not have an official certificate.
+### My virus scanner is alerting!
+If there are problems starting the app, please add an exception to your virus scanner for the program. The scanner is i.a. working because we do not have official certificates.
 
 ### Is Windows 7 supported?
 Windows 7 is no longer fully supported by Ubisoft. It can work, but it doesn't have to.
