@@ -1,17 +1,17 @@
 
-# The Settlers IV Community Patch
+# The Settlers IV History Edition with Community Patch ChangeLog
 
-## App 
+## APP 
 Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
 Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]  
 Sprachauswahl der App hinzugefügt.  [V3.1.1519]  
 Sicherung der "History Edition".  [V3.0.1517] 
 
-### Features
+### FEATURES
 Auswahl der Spielgeschwindigkeit. [V3.0.1517] 
 Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
 
-### Tools
+### TOOLS
 Enthält den Editor+ von MuffinMario. [V3.0.1517]  
 Enthält den Texturenwechsler von Cybertom. [V3.0.1517]  
 Setup, Ordner und Reset Button hinzugefügt [V3.1.1519]
