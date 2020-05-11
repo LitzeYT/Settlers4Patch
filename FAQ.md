@@ -26,8 +26,8 @@ Wenn eine Sicherung erstellt wurde, muss nur auf unten links auf die History Edi
 Im zweifelsfall bitte sowohl Launcher als auch Siedler IV Deinstallieren. Den Uplay Games Ordner von TheSettlers4 löschen.
 Anschließend "The Settlers IV History Edition" neu Installieren. 
 
-#### Was passiert bei der Neuinstallation mit meinen Einstellungen? 
+### Was passiert bei der Neuinstallation mit meinen Einstellungen? 
 Bei Bedarf die Dateien "GameSettings.cfg", "MiscData1.cfg" und "MiscData2.cfg" im Config Ordner Sichern.
 
-#### Was passiert bei der Neuinstallation mit meinen Spielständen? 
+### Was passiert bei der Neuinstallation mit meinen Spielständen? 
 Diese liegen unter "Documents\TheSettlers4\Save" und werden nicht verändert. Sicherungen sind aber immer Nützlich!
