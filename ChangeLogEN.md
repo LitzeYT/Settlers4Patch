@@ -53,6 +53,7 @@ The life of the backpack catapulters has been increased. [V1.2.2]
     Level 1 from 30 to 60  
     Level 2 from 40 to 85  
     Level 3 from 45 to 95  
+    
 The Backpack Catapultist Level 3 now does the most area damage, before it was the Level 2 Backpack Catapultist. Backpack Catapultist damage has been increased. [V1.2.2]  
     Level 1 from 8 to 35  
     Level 2 from 11 to 40  
