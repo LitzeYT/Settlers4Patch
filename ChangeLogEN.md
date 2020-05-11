@@ -88,4 +88,4 @@ The network input delay was optimized. [V2.0.0]
 ## MISC
 
 An unused Trojan song was added. [V1.2.2]  
-Minor text adjustments
+Minor text adjustments [2.0.0]
