@@ -11,7 +11,7 @@ Versionsauswahl "Community Patch" oder "History Edition".
 Auswahl der Spielgeschwindigkeit.
 
 ### TOOLS
-Enthält den Editor+ von MuffinMario.
+Enthält den Editor+ von MuffinMario.  
 Enthält den Texturenwechsler von Cybertom.
 
 ### The Settlers IV Community Patch
