@@ -8,7 +8,7 @@ Backup of the "History Edition". [V3.0.1517]
 
 ### FEATURES
 Gamespeed selection. [V3.0.1517]  
-Storage of the playing speed. [V3.1.1520] 
+Storage of the playing speed. [V3.1.1520]  
 Indicator of game version in app and game main menu. [V3.0.1517]   
 
 ### TOOLS
