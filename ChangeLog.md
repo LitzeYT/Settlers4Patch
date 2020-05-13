@@ -2,10 +2,12 @@
 # The Settlers IV Community Patch ChangeLog
 
 ## APP 
-Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
+Automatischer Download der neuesten App und Spielversion. [V3.0.1517] 
 Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]  
 Sprachauswahl der App hinzugefügt.  [V3.0.1519]  
 Sicherung der "History Edition".  [V3.0.1517] 
+Patchvorgang Optimiert. [V3.0.1520]  
+
 
 ### FEATURES
 Auswahl der Spielgeschwindigkeit. [V3.0.1517]  
@@ -52,7 +54,7 @@ Der Kleine Turm wurde von 3/3 (Holz/Stein) auf 2/3 geändert. [V1.2.0]
 Die Geschwindigkeit der Goldschmelze wurde erhöht. [V1.2.0]  
 Die Bogenschützen wurden auf das Niveau der anderen Völker angehoben. [V1.2.0]  
 Die Baukosten der Goldschmelze wurde von 1 Brett 3 Steine auf 4 Bretter 6 Steine angehoben. [V1.2.2]  
-Balance Anpassungen der Trojaner Goldschmiede & Waffenschmiede [V3.0.1519]
+Balance Anpassungen der Trojaner Waffenschmiede [V3.0.1520]
 
 
 Das Leben der Rucksackkatapultisten wurde erhöht. [V1.2.2]  
