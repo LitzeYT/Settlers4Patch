@@ -4,12 +4,12 @@
 ## APP 
 Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
 Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]  
-Sprachauswahl der App hinzugefügt.  [V3.1.1520]  
+Sprachauswahl der App hinzugefügt.  [V3.0.1519]  
 Sicherung der "History Edition".  [V3.0.1517] 
 
 ### FEATURES
 Auswahl der Spielgeschwindigkeit. [V3.0.1517]  
-Speicherung der Spielgeschwindigkeit.  [V3.1.1520]  
+Speicherung der Spielgeschwindigkeit.  [V3.0.1519]  
 Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
 
 
