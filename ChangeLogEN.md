@@ -1,21 +1,24 @@
+
 # The Settlers IV Community Patch ChangeLog
 
 ## APP 
-Automatic download of the newest app and game version. [V3.0.1517]  
+Automatic download of the latest app and game version. [V3.0.1517]  
 Version selection "Community Patch" or "History Edition". [V3.0.1517]  
-Language selection added.  [V3.1.1520]  
-Backup of the "History Edition". [V3.0.1517] 
+Backup of the "History Edition".  [V3.0.1517]  
+Language selection added to the app.  [V3.0.1519]  
+Patching process Optimized. [V3.0.1520]  
+
 
 ### FEATURES
-Gamespeed selection. [V3.0.1517]  
-Storage of the playing speed. [V3.1.1520]  
-Indicator of game version in app and game main menu. [V3.0.1517]   
+Display of the game version in the app and in the main menu. [V3.0.1517]  
+Selection of the playing speed. [V3.0.1517]  
+Storage of the playing speed.  [V3.0.1519]  
+
 
 ### TOOLS
-Contains Editor+ of MuffinMario. [V3.0.1517]  
-Contains Texture-Changer of Cybertom. [V3.0.1517]  
-Setup, folder and reset button added. [V3.1.1520]
-
+Contains the Editor+ of MuffinMario. [V3.0.1517]  
+Contains the texture changer of Cybertom. [V3.0.1517]  
+Setup, folder and reset button added [V3.0.1519].
 
 ## GENERAL CHANGES
 
