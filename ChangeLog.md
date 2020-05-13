@@ -16,7 +16,7 @@ Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]
 ### TOOLS
 Enthält den Editor+ von MuffinMario. [V3.0.1517]  
 Enthält den Texturenwechsler von Cybertom. [V3.0.1517]  
-Setup, Ordner und Reset Button hinzugefügt [V3.1.1519]
+Setup, Ordner und Reset Button hinzugefügt [V3.0.1519]
 
 
 ## ALLGEMEINE ÄNDERUNGEN
