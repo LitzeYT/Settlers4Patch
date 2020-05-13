@@ -1,7 +1,7 @@
 # News
 ## Veröffentlichung des "The Settlers IV Community Patch" 
 
-Veröffentlichung des Community Patch Version 3.0.1518.
+Veröffentlichung des Community Patch Version 3.0.1520.
 
 ## APP 
 Automatischer Download der neuesten App und Spielversion. 
