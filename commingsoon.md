@@ -1,13 +1,8 @@
 # comming soon (maybe)
 ## APP
 
-### Mehrsprachigkeit
-- Englisch
-- bei Bedarf weitere Sprachen
-
-### Speicherung der Spielgeschwindigkeit
-
 ### Kartenauswahl in der App
+Möglichkeit beliebte Apps direkt Herrunterzuladen
 
 ## The Settlers IV Community Patch
 
