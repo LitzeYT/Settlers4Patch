@@ -5,7 +5,7 @@
 Die Einstellungen werden nicht verändert, sofern nicht anders beschrieben.
 
 ### Was benötige ich?
-Für diese Modifikation wird eine Originale Uplay "The Settlers IV History Edition" Version benötigt. Es ist keine NOCD.exe enthalten!  
+Für diese Modifikation wird die "Die Siedler IV History Edition" benötigt.
 
 ### Benötige ich dann noch Uplay?
 Uplay wird weiterhin benötigt! Die App startet das Spiel auch weiterhin über Uplay. 
