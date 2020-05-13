@@ -7,8 +7,8 @@ Möglichkeit beliebte Apps direkt Herrunterzuladen
 ## The Settlers IV Community Patch
 
 ### Balance [3.1]
-Trojaner Goldschmelze verbesserung Arbeitszeit und Baukosten. 
-Trojaner und Maya Spezialeinheiten abschwächung.
+Trojaner Goldschmelze verbesserung Arbeitszeit und Baukosten.  
+Trojaner und Maya Spezialeinheiten abschwächung.  
 Römer Schwertkämpfer minimal Rüstung.  
 
 ### weitere Maps
