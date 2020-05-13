@@ -12,6 +12,7 @@ Auswahl der Spielgeschwindigkeit. [V3.0.1517]
 Speicherung der Spielgeschwindigkeit.  [V3.1.1520]  
 Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
 
+
 ### TOOLS
 Enthält den Editor+ von MuffinMario. [V3.0.1517]  
 Enthält den Texturenwechsler von Cybertom. [V3.0.1517]  
@@ -43,12 +44,16 @@ Der Arbeitsradius des Jägers wurde verdoppelt. [V1.2.3]
 Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden. [2.0.0]  
 
 
+
+
 ### Trojaner
 Die Bewohneranzahl des Mittleren Wohnhauses der Trojaner wurde von 20 auf 25 erhöht. [V1.2.0]  
 Der Kleine Turm wurde von 3/3 (Holz/Stein) auf 2/3 geändert. [V1.2.0]  
 Die Geschwindigkeit der Goldschmelze wurde erhöht. [V1.2.0]  
 Die Bogenschützen wurden auf das Niveau der anderen Völker angehoben. [V1.2.0]  
 Die Baukosten der Goldschmelze wurde von 1 Brett 3 Steine auf 4 Bretter 6 Steine angehoben. [V1.2.2]  
+Balance Anpassungen der Trojaner Goldschmiede & Waffenschmiede [V3.0.1519]
+
 
 Das Leben der Rucksackkatapultisten wurde erhöht. [V1.2.2]  
     Level 1 von 30 auf 60  
