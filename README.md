@@ -33,5 +33,5 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 - SiedelndeEnte
 
 ## English Translation
-- KingJo
+- King Jo
 - moyy
