@@ -13,7 +13,6 @@ All graphics and text content, as well as all other information in this applicat
 
 # Modder
 - LITZE (Main)
-- KDSYSTEM1337 (Launcher)
 
 ## Graphics and video 
 - Patrick aka Zocker Lounge
