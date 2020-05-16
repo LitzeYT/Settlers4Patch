@@ -73,7 +73,6 @@ Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1521]
     Level 2 von 40 auf 12  
     Level 3 von 45 auf 16     
 
-Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
 Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1523]  
     Level 1 von 30 auf 75  
     Level 2 von 40 auf 95  
