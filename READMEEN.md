@@ -12,7 +12,8 @@
 All graphics and text content, as well as all other information in this application, are subject to the applicable intellectual property laws of Blue Byte, Ubisoft or the creators of this modification. All graphics and text content, as well as all other information of this application, may not be reproduced or used in part or in whole without the permission of the respective author or copyright holder. Registered trademark rights were not separately marked as such in the context of the modification or its documentation.
 
 # Modder
-- LITZE (Main)
+- LITZE (Main) [Discord: Sc0uty#8434]
+- KDSYSTEM1337
 
 ## Graphics and video 
 - Patrick aka Zocker Lounge
