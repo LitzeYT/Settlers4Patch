@@ -68,11 +68,16 @@ Der Schaden der Rucksackkatapultisten wurde erhöht. [V1.2.2]
     Level 2 von 11 auf 40  
     Level 3 von 13 auf 50  
     
-Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
 Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1521]  
     Level 1 von 30 auf 8  
     Level 2 von 40 auf 12  
     Level 3 von 45 auf 16     
+
+Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
+Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1523]  
+    Level 1 von 30 auf 75  
+    Level 2 von 40 auf 95  
+    Level 3 von 45 auf 120     
 
 ### Römer:
 Die verursachte Heilung der Medics wurde erhöht. [V1.2.2]  
