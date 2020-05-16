@@ -73,7 +73,7 @@ Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1521]
     Level 2 von 40 auf 12  
     Level 3 von 45 auf 16     
 
-Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1523]  
+Das Leben wurde der Rucksackkatapultisten wurde erhöht. [V3.0.1523]  
     Level 1 von 30 auf 75  
     Level 2 von 40 auf 95  
     Level 3 von 45 auf 120     
