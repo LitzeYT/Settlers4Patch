@@ -13,7 +13,6 @@ All graphics and text content, as well as all other information in this applicat
 
 # Modder
 - LITZE (Main) [Discord: Sc0uty#8434]
-- KDSYSTEM1337
 
 ## Graphics and video 
 - Patrick aka Zocker Lounge
