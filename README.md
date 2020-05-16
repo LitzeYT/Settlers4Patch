@@ -14,6 +14,7 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 
 # Modder
 - LITZE (Main) [Discord: Sc0uty#8434]
+- KDSYSTEM1337
 
 ## Grafik und Video 
 - Patrick aka Zocker Lounge
