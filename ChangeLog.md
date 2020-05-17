@@ -75,7 +75,7 @@ Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1521]
 Das Leben wurde der Rucksackkatapultisten wurde erhöht. [V3.0.1523]  
     Level 1 von 30 auf 75  
     Level 2 von 40 auf 95  
-    Level 3 von 45 auf 120     
+    Level 3 von 95 auf 120     
 
 ### Römer:
 Die verursachte Heilung der Medics wurde erhöht. [V1.2.2]  
