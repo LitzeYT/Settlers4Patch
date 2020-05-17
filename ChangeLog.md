@@ -29,7 +29,6 @@ Die Maximale Träger Anzahl wurde auf 65535 gesetzt. [V1.0.0]
 Es ist nun möglich das Spiel auf der Geschwindigkeit 2 & 3 im Multiplayer zu Spielen. [V1.2.2]  
 
 Das Ram Limit von 2GB wurde aufgehoben, das führt dazu das das Spiel generell Performanter wird [V1.3.0]  
-Das KI verhalten wurde grundlegend überarbeitet. [V2.0.0]  
 
 
 ## BALANCE
