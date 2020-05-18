@@ -68,7 +68,7 @@ Die Kosten der Trojaner wurden komplett Überarbeitet.
     Die Waffenschmiede kostet nun 4 Bretter 8 Steine.
     
 Die Geschwindigkeiten der folgenden Gebäude wurden angepasst.
-    Die Position der Rohstoffe der Goldschmelze wurde so verändert, das es nun exakt der Geschwindigkeit der Römer entspricht.
+    Die Position der Rohstoffe an der Goldschmelze wurden so verändert, das es nun exakt der Geschwindigkeit der Römer entspricht.
     Die Bäckerei wurde verschnellert, da die Mühle die langsamste im Spiel ist. 
 
 
