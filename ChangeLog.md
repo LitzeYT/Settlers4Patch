@@ -30,6 +30,7 @@ Es ist nun möglich das Spiel auf der Geschwindigkeit 2 & 3 im Multiplayer zu Sp
 
 Das Ram Limit von 2GB wurde aufgehoben, das führt dazu das das Spiel generell Performanter wird [V1.3.0]  
 
+Die Startressourcen der Wikinger wurde im Spielmodus HGHG angepasst, diese haben nun mehr Bretter als Steine.
 
 ## BALANCE
 
@@ -50,22 +51,29 @@ Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden. [2.0.0]
 ### Trojaner
 Die Bewohneranzahl des Mittleren Wohnhauses der Trojaner wurde von 20 auf 25 erhöht. [V1.2.0]  
 Der Kleine Turm wurde von 3/3 (Holz/Stein) auf 2/3 geändert. [V1.2.0]  
-Die Geschwindigkeit der Goldschmelze wurde erhöht. [V1.2.0]  
 Die Bogenschützen wurden auf das Niveau der anderen Völker angehoben. [V1.2.0]  
-Die Baukosten der Goldschmelze wurde von 1 Brett 3 Steine auf 4 Bretter 6 Steine angehoben. [V1.2.2]  
-Balance Anpassungen der Trojaner Waffenschmiede [V3.0.1520]
 
-Das Leben der Rucksackkatapultisten wurde erhöht. [V1.2.2]  
-    Level 1 von 30 auf 60  
-    Level 2 von 40 auf 85  
-    Level 3 von 45 auf 95  
+Die Kosten der Trojaner wurden komplett Überarbeitet.
+    Die Getreidefarm kostet nun 5 Bretter 7 Steine.
+    Die Mühle kostet nun 2 Bretter 4 Steine.
+    Die Bäckerei kostet nun 5 Bretter und 7 Steine.
+    Die Metzgerei kostet nun 3 Bretter 6 Steine.
+    Die Fischerei kostet nun 2 Bretter 2 Steine.
+    Das Wasserwerk kostet nun 3 Bretter 3 Steine.
+    Der Jäger kostet nun 3 Bretter 4 Steine.
+    Die Kohlemine kostet nun 3 Bretter 3 Steine.
+    Die Goldmine kostet nun 3 Bretter 4 Steine.
+    Die Steinmine kostet nun 2 Bretter 4 Steine.
+    Die Werkzeugschmiede kostet nun 2 Bretter 4 Steine.
+    Die Waffenschmiede kostet nun 4 Bretter 8 Steine.
     
+Die Geschwindigkeiten der folgenden Gebäude wurden angepasst.
+    Die Position der Rohstoffe der Goldschmelze wurde so verändert, das es nun exakt der Geschwindigkeit der Römer entspricht.
+    Die Bäckerei wurde verschnellert, da die Mühle die langsamste im Spiel ist. 
+
+
 
 Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
-Der Schaden der Rucksackkatapultisten wurde erhöht. [V1.2.2]  
-    Level 1 von 8 auf 35  
-    Level 2 von 11 auf 40  
-    Level 3 von 13 auf 50  
     
 Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1521]  
     Level 1 von 30 auf 8  
