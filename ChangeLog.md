@@ -54,22 +54,22 @@ Der Kleine Turm wurde von 3/3 (Holz/Stein) auf 2/3 geändert. [V1.2.0]
 Die Bogenschützen wurden auf das Niveau der anderen Völker angehoben. [V1.2.0]  
 
 Die Kosten der Trojaner wurden komplett Überarbeitet.
-    Die Getreidefarm kostet nun 5 Bretter 7 Steine.
-    Die Mühle kostet nun 2 Bretter 4 Steine.
-    Die Bäckerei kostet nun 5 Bretter und 7 Steine.
-    Die Metzgerei kostet nun 3 Bretter 6 Steine.
-    Die Fischerei kostet nun 2 Bretter 2 Steine.
-    Das Wasserwerk kostet nun 3 Bretter 3 Steine.
-    Der Jäger kostet nun 3 Bretter 4 Steine.
-    Die Kohlemine kostet nun 3 Bretter 3 Steine.
-    Die Goldmine kostet nun 3 Bretter 4 Steine.
-    Die Steinmine kostet nun 2 Bretter 4 Steine.
-    Die Werkzeugschmiede kostet nun 2 Bretter 4 Steine.
-    Die Waffenschmiede kostet nun 4 Bretter 8 Steine.
+    Die Getreidefarm kostet nun 5 Bretter 7 Steine.  
+    Die Mühle kostet nun 2 Bretter 4 Steine.  
+    Die Bäckerei kostet nun 5 Bretter und 7 Steine.  
+    Die Metzgerei kostet nun 3 Bretter 6 Steine.  
+    Die Fischerei kostet nun 2 Bretter 2 Steine.  
+    Das Wasserwerk kostet nun 3 Bretter 3 Steine.  
+    Der Jäger kostet nun 3 Bretter 4 Steine.  
+    Die Kohlemine kostet nun 3 Bretter 3 Steine.  
+    Die Goldmine kostet nun 3 Bretter 4 Steine.  
+    Die Steinmine kostet nun 2 Bretter 4 Steine.  
+    Die Werkzeugschmiede kostet nun 2 Bretter 4 Steine.  
+    Die Waffenschmiede kostet nun 4 Bretter 8 Steine.  
     
-Die Geschwindigkeiten der folgenden Gebäude wurden angepasst.
+Die Geschwindigkeiten der folgenden Gebäude wurden angepasst.  
     Die Position der Rohstoffe an der Goldschmelze wurden so verändert, das es nun exakt der Geschwindigkeit der Römer entspricht.
-    Die Bäckerei wurde verschnellert, da die Mühle die langsamste im Spiel ist. 
+    Die Bäckerei wurde verschnellert, da die Mühle die langsamste im Spiel ist.   
 
 
 
