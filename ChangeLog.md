@@ -99,9 +99,9 @@ Das Leben der Blasrohrschützen wurde verringert. [V1.2.3]
     Level 3 von 190 auf 140  
 
 ### Wikinger:
-Die Geschwindigkeit des Sägewerkes wurde erhöht. [V1.2.3]
-Die Geschwindigkeit des Wasserwerkes wurde erhöht. [V2.0.0]
-Die Geschwindigkeit des Sägewerkes wurde verringert [V3.0.1521]
+Die Geschwindigkeit des Sägewerkes wurde erhöht. [V1.2.3]  
+Die Geschwindigkeit des Wasserwerkes wurde erhöht. [V2.0.0]  
+Die Geschwindigkeit des Sägewerkes wurde verringert [V3.0.1521]  
 
 ## BUGFIX
 
