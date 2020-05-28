@@ -2,11 +2,11 @@
 # The Settlers IV Community Patch ChangeLog
 
 ## APP [App Version - 0.9.0.1010]
-Automatischer Download der neuesten App- und Spielversion. 
-Sprachauswahl zwischen Deutsch und Englisch.
-Branchauswahl zwischen Release und BetaRelease.
-[TEMPORÄR DEAKTIVIERT] Versionsauswahl "Community Patch" oder "History Edition".  
-[TEMPORÄR DEAKTIVIERT] Sicherung der "History Edition".   
+Automatischer Download der neuesten App- und Spielversion.  
+Sprachauswahl zwischen Deutsch und Englisch.  
+Branchauswahl zwischen Release und BetaRelease.  
+[TEMPORÄR DEAKTIVIERT] Versionsauswahl "Community Patch" oder "History Edition".   
+[TEMPORÄR DEAKTIVIERT] Sicherung der "History Edition".    
 
 ### FEATURES
 Anzeige der Spielversion in der App und im Hauptmenü. 
