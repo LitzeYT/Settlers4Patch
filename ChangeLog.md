@@ -1,24 +1,22 @@
 
 # The Settlers IV Community Patch ChangeLog
 
-## APP [APP V0.9.0.1010]
-Automatischer Download der neuesten App und Spielversion.  
+## APP [App Version - 0.9.0.1010]
+Automatischer Download der neuesten App- und Spielversion. 
+Sprachauswahl zwischen Deutsch und Englisch.
+Branchauswahl zwischen Release und BetaRelease.
 [TEMPORÄR DEAKTIVIERT] Versionsauswahl "Community Patch" oder "History Edition".  
 [TEMPORÄR DEAKTIVIERT] Sicherung der "History Edition".   
-Sprachauswahl der App hinzugefügt.    
-Patchvorgang Optimiert.    
-Auswahl der BetaRelease Version.  
 
 ### FEATURES
-Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
-Auswahl der Spielgeschwindigkeit. [V3.0.1517]  
-Speicherung der Spielgeschwindigkeit.  [V3.0.1519]  
-
+Anzeige der Spielversion in der App und im Hauptmenü. 
+Auswahl der Spielgeschwindigkeit.  
+Speicherung der Spielgeschwindigkeit.   
 
 ### TOOLS
-Enthält den Editor+ von MuffinMario. [V3.0.1517]  
-Enthält den Texturenwechsler von Cybertom. [V3.0.1517]  
-Setup, Ordner und Reset Button hinzugefügt [V3.0.1519]
+Enthält den Editor+ von MuffinMario.  
+Enthält den Texturenwechsler von Cybertom.  
+Setup, Ordner und Reset Button hinzugefügt  
 
 
 ## ALLGEMEINE ÄNDERUNGEN
