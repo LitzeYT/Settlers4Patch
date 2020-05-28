@@ -3,11 +3,11 @@
 
 ## APP 
 Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
-Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]  
-Sicherung der "History Edition".  [V3.0.1517]  
+[DEAKTIVIER] Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]  
+[DEAKTIVIER] Sicherung der "History Edition".  [V3.0.1517]  
 Sprachauswahl der App hinzugefügt.  [V3.0.1519]  
 Patchvorgang Optimiert. [V3.0.1520]  
-
+Auswahl der BetaRelease Version. [V3.0.1526]
 
 ### FEATURES
 Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
@@ -101,7 +101,8 @@ Das Leben der Blasrohrschützen wurde verringert. [V1.2.3]
 ### Wikinger:
 Die Geschwindigkeit des Sägewerkes wurde erhöht. [V1.2.3]  
 Die Geschwindigkeit des Wasserwerkes wurde erhöht. [V2.0.0]  
-Die Geschwindigkeit des Sägewerkes wurde verringert [V3.0.1521]  
+Die Geschwindigkeit des Sägewerkes wurde verringert. [V3.0.1521]  
+Änderungen an den Baukosten der Kohle und Goldmiene. [V3.0.1526]  
 
 ## BUGFIX
 
