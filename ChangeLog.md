@@ -1,13 +1,13 @@
 
 # The Settlers IV Community Patch ChangeLog
 
-## APP 
-Automatischer Download der neuesten App und Spielversion. [V3.0.1517]  
-[TEMPORÄR DEAKTIVIERT] Versionsauswahl "Community Patch" oder "History Edition". [V3.0.1517]  
-[TEMPORÄR DEAKTIVIERT] Sicherung der "History Edition".  [V3.0.1517]  
-Sprachauswahl der App hinzugefügt.  [V3.0.1519]  
-Patchvorgang Optimiert. [V3.0.1520]  
-Auswahl der BetaRelease Version. [V3.0.1526]
+## APP [APP V0.9.0.1010]
+Automatischer Download der neuesten App und Spielversion.  
+[TEMPORÄR DEAKTIVIERT] Versionsauswahl "Community Patch" oder "History Edition".  
+[TEMPORÄR DEAKTIVIERT] Sicherung der "History Edition".   
+Sprachauswahl der App hinzugefügt.    
+Patchvorgang Optimiert.    
+Auswahl der BetaRelease Version.  
 
 ### FEATURES
 Anzeige der Spielversion in der App und im Hauptmenü. [V3.0.1517]  
