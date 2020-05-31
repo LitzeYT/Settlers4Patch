@@ -25,7 +25,7 @@ Based on Community Patch 3.00.1527 with additional adjustments for the group pha
 - Viking adapted
 All details on the Tournament Discord!
 
-### CommunityPatchTournamentRandom [2.55.1527]
+### CommunityPatchTournamentRandom [2.56.1527]
 Based on Community Patch 3.00.1527 without balance adjustments for the final phase.
 
 ### CommunityPatchDLC [v2]
