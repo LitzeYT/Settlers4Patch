@@ -1,8 +1,8 @@
 
 # The Settlers IV Community Patch ChangeLog
-Die Anwendung für den Community Patch steht nun in der Version 1.0.0.1015 zur Verfügung.  
+Die Anwendung für den Community Patch steht nun in der Version 1.0.0.1016 zur Verfügung.  
 Automatischer Download, Sprachauswahl, Spielgeschwindigkeit.  
-*UPDATE* Versionsauswahl *die HistoryEdtion und sowie CommunityPatch PTR/Tournament Custom/Tournament Random stehen nun zur Verfügung!*
+*UPDATE* Versionsauswahl *die HistoryEdtion und sowie CommunityPatch PTR/Tournament Custom/Tournament Random stehen nun zur Verfügung!*  
 *UPDATE* Editor+ und Texturenwechsler in allen Editionen verfügbar.  
 *UPDATE* Schnellerer Versionswechsel durch weniger Downloads und weniger Dateioperationen.  
 
