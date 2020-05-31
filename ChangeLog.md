@@ -24,7 +24,7 @@ Basiert auf Community Patch 3.00.1527 mit zusätlichen Anpassungen für die Grup
 - Wikinger angepasst
 Alle Details auf dem Tournament Discord!
 
-### *CommunityPatchTournamentRandom* [2.55.1527]
+### *CommunityPatchTournamentRandom* [2.56.1527]
 Basiert auf Community Patch 3.00.1527 ohne Balance Anpassungen für die Finalenphase.
 
 ### *CommunityPatchDLC* [v2]
