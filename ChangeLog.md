@@ -1,22 +1,34 @@
 
 # The Settlers IV Community Patch ChangeLog
+Die Anwendung für den Community Patch steht nun in der Version 1.0.0.1015 zur Verfügung
+Automatischer Download, Sprachauswahl, Spielgeschwindigkeit.
+*UPDATE* Versionsauswahl (*die HistoryEdtion und sowie CommunityPatch PTR/Tournament Custom/Tournament Random stehen nun zur Verfügung
+*UPDATE* Editor+ und Texturenwechsler in allen Editionen verfügbar.
+*UPDATE* Schnellerer Versionswechsel durch weniger Downloads und weniger Dateioperationen.
 
-## APP [App Version - 0.9.0.1010]
-Automatischer Download der neuesten App- und Spielversion.  
-Sprachauswahl zwischen Deutsch und Englisch.  
-Branchauswahl zwischen Release und BetaRelease.  
-[TEMPORÄR DEAKTIVIERT] Versionsauswahl "Community Patch" oder "History Edition".   
-[TEMPORÄR DEAKTIVIERT] Sicherung der "History Edition".    
+### *HistoryEdition* [2.50.1516]
+Originale Version 
 
-### FEATURES
-Anzeige der Spielversion in der App und im Hauptmenü. 
-Auswahl der Spielgeschwindigkeit.  
-Speicherung der Spielgeschwindigkeit.   
+### *CommunityPatch* [3.00.1527]
+Aktuelle Version 
 
-### TOOLS
-Enthält den Editor+ von MuffinMario.  
-Enthält den Texturenwechsler von Cybertom.  
-Setup, Ordner und Reset Button hinzugefügt  
+### * CommunityPatchPTR* [4.00.1527]
+Vorschauversion 
+- 5 Pioniere im HGHG
+- 2 Jäger im HGHG
+- Abstimmung https://forms.gle/DSZZ47ZTBzEvfueG7
+
+### *CommunityPatchTournamentCustom* [2.55.1527]
+Basiert auf Community Patch 3.00.1527 mit zusätlichen Anpassungen für die Gruppenphase.
+- Startressouren angepasst
+- Wikinger angepasst
+Alle Details auf dem Tournament Discord!
+
+### *CommunityPatchTournamentRandom* [2.55.1527]
+Basiert auf Community Patch 3.00.1527 ohne Balance Anpassungen für die Finalenphase.
+
+### *CommunityPatchDLC* [v2]
+Enthält den * Editor+, Texturenwechsler, Karten und weitere Inhalte für alle Versionen.
 
 
 ## ALLGEMEINE ÄNDERUNGEN
@@ -43,9 +55,6 @@ Der Arbeitsradius des Jägers wurde verdoppelt. [V1.2.3]
 
 Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden. [2.0.0]  
 
-
-
-
 ### Trojaner
 Die Bewohneranzahl des Mittleren Wohnhauses der Trojaner wurde von 20 auf 25 erhöht. [V1.2.0]  
 Der Kleine Turm wurde von 3/3 (Holz/Stein) auf 2/3 geändert. [V1.2.0]  
@@ -68,8 +77,6 @@ Die Kosten der Trojaner wurden komplett Überarbeitet.
 Die Geschwindigkeiten der folgenden Gebäude wurden angepasst.  
     Die Position der Rohstoffe an der Goldschmelze wurden so verändert, das es nun exakt der Geschwindigkeit der Römer entspricht.
     Die Bäckerei wurde verschnellert, da die Mühle die langsamste im Spiel ist.   
-
-
 
 Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
     
