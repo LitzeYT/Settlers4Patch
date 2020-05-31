@@ -1,3 +1,4 @@
+# News
 Die Anwendung für den Community Patch steht nun in der Version 1.0.0.1016 zur Verfügung.  
 Automatischer Download, Sprachauswahl, Spielgeschwindigkeit.  
 UPDATE: Versionsauswahl.  
