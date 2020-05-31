@@ -21,10 +21,6 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 ## "Texturenwechsler"
 - Cybertom 
 
-## "Grafiken"
-
-- Patrick|Zockerlounge
-
 ## Unterstützer und Tester
 - Nuevo Ordenador
 - Archenwaechter
