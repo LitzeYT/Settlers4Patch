@@ -12,7 +12,7 @@ Originale Version
 ### *CommunityPatch* [3.00.1527]
 Aktuelle Version 
 
-### * CommunityPatchPTR* [4.00.1527]
+### *CommunityPatchPTR* [4.00.1527]
 Vorschauversion 
 - 5 Pioniere im HGHG
 - 2 Jäger im HGHG
