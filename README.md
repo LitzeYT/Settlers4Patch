@@ -15,9 +15,6 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 # Modder
 - LITZE (Main) [Discord: Sc0uty#8434]
 
-## Grafik und Video 
-- Patrick aka Zocker Lounge
-
 ##  "Editor+"
 - MuffinMario 
 
