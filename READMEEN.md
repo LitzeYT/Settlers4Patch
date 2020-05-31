@@ -15,7 +15,6 @@ All graphics and text content, as well as all other information in this applicat
 - LITZE (Main) [Discord: Sc0uty#8434]
 
 
-
 ## "Editor+"
 - MuffinMario 
 
@@ -28,9 +27,6 @@ All graphics and text content, as well as all other information in this applicat
 - Hörer 
 - King Jo
 - SiedelndeEnte
-
-## Graphics
-- Patrick|Zocker Lounge
 
 ### English Translation
 - KingJo
