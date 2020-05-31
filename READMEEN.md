@@ -14,8 +14,7 @@ All graphics and text content, as well as all other information in this applicat
 # Modder
 - LITZE (Main) [Discord: Sc0uty#8434]
 
-## Graphics and video 
-- Patrick aka Zocker Lounge
+
 
 ## "Editor+"
 - MuffinMario 
@@ -29,6 +28,9 @@ All graphics and text content, as well as all other information in this applicat
 - Hörer 
 - King Jo
 - SiedelndeEnte
+
+## Graphics
+- Patrick|Zocker Lounge
 
 ### English Translation
 - KingJo
