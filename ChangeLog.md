@@ -107,7 +107,7 @@ Das Leben der Blasrohrschützen wurde verringert. [V1.2.3]
 Die Geschwindigkeit des Sägewerkes wurde erhöht. [V1.2.3]  
 Die Geschwindigkeit des Wasserwerkes wurde erhöht. [V2.0.0]  
 Die Geschwindigkeit des Sägewerkes wurde verringert. [V3.0.1521]  
-Änderungen an den Baukosten der Kohle und Goldmiene. [V3.0.1526]  
+Änderungen an den Baukosten der Kohle und Goldmine wurden zurück genommen. [V3.0.1527]  
 
 ## BUGFIX
 
