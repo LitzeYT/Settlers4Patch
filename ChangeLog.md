@@ -52,7 +52,7 @@ Der Arbeitsradius des Jägers wurde verdoppelt. [V1.2.3]
 
 Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden. [2.0.0]  
 
-Ihr erhaltet nun zum Start einer HGHG 5 Pioniere [V3.0.1528]
+Ihr erhaltet nun zum Start einer HGHG 5 Pioniere [V3.0.1528]  
 Ihr erhaltet nun zum Start einer HGHG ein weiteren Jäger [V3.0.1528]
 
 ### Trojaner
