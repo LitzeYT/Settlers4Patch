@@ -127,4 +127,18 @@ Die Netzwerkseingabeverzögerung wurde Optimiert. [V2.0.0]
 Ein nicht verwendetes Lied der Trojaner wurde hinzugefügt. [V1.2.2]  
 Kleinere Textanpassungen. [V2.0.0]  
 
+## Maps
+Multiplayer Maps wurden Hinzugefügt.  
+Zapoc : Zapocs_Karte_2_2v2v2v2  
+        Zapocs_Karte_1_1v1v1  
+Bierdeckel : J2P4Luxury   
+             J3P3RushforGold  
+             J4P3Spiral  
+             J6P4Block  
+             J7P3Snowflake  
+             J10P6Tiles  
+        
+
+  
+
 
