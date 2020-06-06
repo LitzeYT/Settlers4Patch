@@ -80,10 +80,15 @@ Die Geschwindigkeiten der folgenden Gebäude wurden angepasst.
 
 Der Rucksackkatapultist Level 3 macht nun den meisten Flächenschaden zuvor war es der Level 2 Rucksackkatapultist.
     
-Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1521]  
-    Level 1 von 30 auf 8  
-    Level 2 von 40 auf 12  
-    Level 3 von 45 auf 16     
+Der Schaden der Rucksackkatapultisten wurde verringert. [V3.0.1528]  
+    Level 1 von 8 auf 5  
+    Level 2 von 12 auf 8  
+    Level 3 von 16 auf 14     
+
+Die AoE Verteilung der Rucksackkatapultisten wurde verringert. [V3.0.1528]  
+    Level 1 von 50 auf 45  
+    Level 2 von 55 auf 50  
+    Level 3 von 60 auf 55     
 
 Das Leben wurde der Rucksackkatapultisten wurde erhöht. [V3.0.1523]  
     Level 1 von 30 auf 75  
