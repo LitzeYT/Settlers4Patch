@@ -9,14 +9,11 @@ Automatischer Download, Sprachauswahl, Spielgeschwindigkeit.
 ### *HistoryEdition* [2.50.1516]
 Originale Version 
 
-### *CommunityPatch* [3.00.1527]
+### *CommunityPatch* [3.00.1528]
 Aktuelle Version 
 
 ### *CommunityPatchPTR* [4.00.1527]
-Vorschauversion 
-- 5 Pioniere im HGHG
-- 2 Jäger im HGHG
-- Abstimmung https://forms.gle/DSZZ47ZTBzEvfueG7
+- Abstimmung Aktuell keine am Laufen
 
 ### *CommunityPatchTournamentCustom* [2.55.1527]
 Basiert auf Community Patch 3.00.1527 mit zusätlichen Anpassungen für die Gruppenphase.
@@ -54,6 +51,9 @@ Der Arbeitsradius des Lazarettes wurde verdoppelt. [V1.2.3]
 Der Arbeitsradius des Jägers wurde verdoppelt. [V1.2.3]  
 
 Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden. [2.0.0]  
+
+Ihr erhaltet nun zum Start einer HGHG 5 Pioniere [V3.0.1528]
+Ihr erhaltet nun zum Start einer HGHG ein weiteren Jäger [V3.0.1528]
 
 ### Trojaner
 Die Bewohneranzahl des Mittleren Wohnhauses der Trojaner wurde von 20 auf 25 erhöht. [V1.2.0]  
