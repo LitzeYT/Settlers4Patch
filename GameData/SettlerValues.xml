@@ -1,0 +1,1590 @@
+<?xml version="1.0"?>
+<!-- edited by hand -->
+<!-- List of settler infos -->
+
+<!-- 
+	AnimLists: 
+		the 0th animlist used for the "checkin" job
+		the 1th for the "normal" job
+		the 2th for an additional job - seed...
+
+	armor
+		( at the moment only for groupleader )
+
+	damage
+		the amout of damage 
+
+	health
+		the default amount of livepoints
+
+	other
+		different useage
+		- the plant to seed
+		
+	role
+		the behavior of this settler - correspond with the xxxRole in the program
+	
+	searchType
+		specify the routine used for searching - see Searchroutines.h
+		
+		there are some exceptions :(
+			warrior have a special search routine implemented in warrioBehavior
+			the searchtype for miner depent on the kind of mine they worke for
+
+	speed
+		the default speed of this settlertype
+
+	tool
+		the required tool 
+
+	misc
+	   squad leader        group attack bonus in percent
+	   medics              amount of hit points healed per animation
+
+-->
+
+
+
+<settlerlist>
+
+<race id = "RACE_ROMAN">
+
+  <settler id="SETTLER_AMMOMAKER">
+		<animLists>
+			<animList>JOB_AMMOMAKER_CHECKIN</animList>
+			<animList>JOB_AMMOMAKER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_BAKER">
+		<animLists>
+			<animList>JOB_BAKER_CHECKIN</animList>
+			<animList>JOB_BAKER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_BOWMAN_01">
+		<animLists>
+			<animList>JOB_BOWMAN_01_CHECKIN</animList>
+			<animList>JOB_BOWMAN_01_WORK</animList>
+			<animList>JOB_BOWMAN_01_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_01_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor></armor>
+		<damage>4</damage>
+		<health>75</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+
+	
+  <settler id="SETTLER_BOWMAN_02">
+		<animLists>
+			<animList>JOB_BOWMAN_02_CHECKIN</animList>
+			<animList>JOB_BOWMAN_02_WORK</animList>
+			<animList>JOB_BOWMAN_02_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_02_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor> </armor>
+		<damage>6</damage>
+		<health>120</health>
+		<role>SOLDIER_ROLE</role>
+		<searchType></searchType>
+		<search>
+			<searchType></searchType>
+		</search>
+		<tool>GOOD_BOW</tool>
+	</settler>
+
+	
+  <settler id="SETTLER_BOWMAN_03">
+	 	<animLists>
+			<animList>JOB_BOWMAN_03_CHECKIN</animList>
+			<animList>JOB_BOWMAN_03_WORK</animList>
+			<animList>JOB_BOWMAN_03_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_03_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor></armor>
+		<damage>8</damage>
+		<health>160</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+	
+	<settler id="SETTLER_BUILDER">
+		<animLists>
+			<animList>JOB_BUILDER</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>BUILDER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_HAMMER</tool>
+	</settler>
+
+	<settler id="SETTLER_BUTCHER">
+		<animLists>
+			<animList>JOB_BUTCHER_CHECKIN</animList>
+			<animList>JOB_BUTCHER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_AXE</tool>
+	</settler>
+  
+	<settler id="SETTLER_CARRIER">
+		<animLists>
+			<animList>JOB_CARRIER_CHECKIN</animList>
+			<animList>JOB_CARRIER_TRANSPORT_GOOD</animList>
+			<animList>JOB_CARRIER_GET_GOOD_CHANGE_JOB</animList>
+            <animList>JOB_COME_TO_BARRACKS_AND_CHANGE_TYPE</animList>
+            <animList>JOB_CARRIER_IDLE1</animList>
+            <animList>JOB_CARRIER_IDLE2</animList>
+            <animList>JOB_CARRIER_IDLE3</animList>
+            <animList>JOB_CARRIER_GOINTO_STRIKE</animList>
+            <animList>JOB_CARRIER_QUIT_STRIKE</animList>
+            <animList>JOB_CARRIER_GET_GOOD_CHANGE_JOB_COME_TO_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>CARRIER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_DIGGER">
+		<animLists>
+	    		<animList>JOB_DIGGER_CHECKIN</animList>
+			<animList>JOB_DIGGER</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>DIGGER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SHOVEL</tool>
+	</settler>
+
+	<settler id="SETTLER_DONKEY">
+		<animLists>
+			<animList>JOB_DONKEY_CHECKIN</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other></other>
+		<role>DONKEY_ROLE</role>
+		<search>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_FARMERANIMALS">
+		<animLists>
+			<animList>JOB_FARMERANIMALS_CHECKIN</animList>
+			<!-- <animList>JOB_FARMERANIMALS_WORK</animList> -->
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+  
+	<settler id="SETTLER_FARMERGRAIN">
+		<animLists>
+			<animList>JOB_FARMERGRAIN_CHECKIN</animList>
+			<animList>JOB_FARMERGRAIN_HARVEST</animList>
+			<animList>JOB_FARMERGRAIN_PLANT</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other>CDecoObjMgr::GRAIN</other>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_GRAIN</searchType>
+			<searchType>SEARCH_GRAIN_SEED_POS</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SCYTHE</tool>
+	</settler>
+
+	<settler id="SETTLER_FISHER">
+		<animLists>
+			<animList>JOB_FISHER_CHECKIN</animList>
+			<animList>JOB_FISHER_FISH</animList>
+			<animList>JOB_FISHER_NOFISH</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_FISH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_ROD</tool>
+	</settler>
+
+	<settler id="SETTLER_FORESTER">
+		<animLists>
+			<animList>JOB_FORESTER_CHECKIN</animList>
+			<animList>JOB_FORESTER_PLANT</animList>
+			<animList>JOB_FORESTER_PLANT</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other>CDecoObjMgr::TREE</other>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+			<searchType>SEARCH_TREE_SEED_POS</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_GARDENER">
+		<animLists>
+			<animList>JOB_GARDENER_CHECKIN</animList>
+			<animList>JOB_GARDENER_WORK</animList>
+			<animList>JOB_GARDENER_BEAT_MUSHROOM</animList>
+			<animList>JOB_GARDENER_FORCE_WALK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health>25</health>
+		<role>GARDENER_ROLE</role>
+		<search>
+			<searchType>SEARCH_DARK_LAND</searchType>
+			<searchType>SEARCH_MUSHROOM</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SHOVEL</tool>
+	</settler>
+
+	<settler id="SETTLER_GEOLOGIST">
+		<animLists>
+			<animList>JOB_GEOLOGIST_CHECKIN</animList>
+			<animList>JOB_GEOLOGIST_WORK</animList>
+			<animList>JOB_GEOLOGIST_FORCE_WALK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health>25</health>
+		<role>GEOLOGIST_ROLE</role>
+		<search>
+			<searchType>SEARCH_RESOURCE_POS</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_HAMMER</tool>
+	</settler>
+
+	<settler id="SETTLER_HEALER">
+		<animLists>
+			<animList>JOB_HEALER_CHECKIN</animList>
+			<animList>JOB_HEALER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_HUNTER">
+		<animLists>
+			<animList>JOB_HUNTER_CHECKIN</animList>
+			<animList>JOB_HUNTER_HUNT</animList>
+            <animList>JOB_HUNTER_HARVEST</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HUNTER_ROLE</role>
+		<search>
+			<searchType>SEARCH_VENISON</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+
+	<settler id="SETTLER_MEDIC_01">
+		<animLists>
+			<animList>JOB_MEDIC_01_CHECKIN</animList>
+			<animList>JOB_MEDIC_01_WORK</animList>
+            <animList>JOB_MEDIC_01_HEAL</animList>
+		</animLists>
+		<armor></armor>
+		<damage>4</damage>
+		<health>75</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+		<misc>5</misc>
+	</settler>
+
+	<settler id="SETTLER_MEDIC_02">
+		<animLists>
+			<animList>JOB_MEDIC_02_CHECKIN</animList>
+			<animList>JOB_MEDIC_02_WORK</animList>
+            <animList>JOB_MEDIC_02_HEAL</animList>
+		</animLists>
+		<armor></armor>
+		<damage>5</damage>
+		<health>120</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+		<misc>10</misc>
+	</settler>
+
+	<settler id="SETTLER_MEDIC_03">
+		<animLists>
+			<animList>JOB_MEDIC_03_CHECKIN</animList>
+			<animList>JOB_MEDIC_03_WORK</animList>
+            <animList>JOB_MEDIC_03_HEAL</animList>
+		</animLists>
+		<armor></armor>
+		<damage>6</damage>
+		<health>185</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+		<misc>15</misc>
+	</settler>
+
+    <settler id="SETTLER_MILLER">
+	    <animLists>
+		    <animList>JOB_MILLER_CHECKIN</animList>
+		    <animList>JOB_MILLER_WORK</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health></health>
+	    <role>HOUSE_WORKER_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_NO_SEARCH</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_NO_GOOD</tool>
+    </settler>
+	
+    <settler id="SETTLER_MINEWORKER">
+	    <animLists>
+		    <animList>JOB_MINER_CHECKIN</animList>
+		    <!-- because there is only one settler type for all mines -->
+		    <!-- the animlists for working store in the buildings -->
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health></health>
+	    <role>HOUSE_WORKER_ROLE</role>
+	    <!-- because there is only one settler type for all resources-->
+	    <!-- the searchtype store in the buildings :( -->
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_PICKAXE</tool>
+    </settler>
+
+
+	<settler id="SETTLER_SABOTEUR">
+		<animLists>
+			<animList>JOB_SABOTEUR_CHECKIN</animList>
+			<animList>JOB_SABOTEUR_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>6</damage>
+		<health>25</health>
+		<role>SABOTEUR_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_PICKAXE</tool>
+	</settler>
+
+	<settler id="SETTLER_PRIEST">
+		<animLists>
+			<animList>JOB_PRIEST_CHECKIN</animList>
+			<animList>JOB_PRIEST_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health>80</health>
+		<role>PRIEST_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_PIONEER">
+		<animLists>
+			<animList>JOB_PIONEER_CHECKIN</animList>
+			<animList>JOB_PIONEER_WORK</animList>
+			<animList>JOB_PIONEER_FORCE_WALK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health>25</health>
+		<role>PIONEER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SHOVEL</tool>
+	</settler>
+	
+	<settler id="SETTLER_SAWMILLWORKER">
+		<animLists>
+			<animList>JOB_SAWMILLWORKER_CHECKIN</animList>
+			<animList>JOB_SAWMILLWORKER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SAW</tool>
+	</settler>
+
+    <settler id="SETTLER_SHIPYARDWORKER">
+	    <animLists>
+		    <animList>JOB_SHIPYARDWORKER_CHECKIN</animList>
+		    <!-- because there is only one settler type for all shipyards -->
+		    <!-- the animlists for working store in the buildings -->
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health></health>
+	    <role>HOUSE_WORKER_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_NO_SEARCH</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_HAMMER</tool>
+    </settler>
+  
+    <settler id="SETTLER_SMELTER">
+	    <animLists>
+		    <animList>JOB_SMELTER_CHECKIN</animList>
+		    <animList>JOB_SMELTERIRON_WORK</animList>
+		    <animList>JOB_SMELTERGOLD_WORK</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health></health>
+	    <role>HOUSE_WORKER_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_NO_SEARCH</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_NO_GOOD</tool>
+    </settler>
+	
+	<settler id="SETTLER_SMITH">
+		<animLists>
+			<animList>JOB_SMITH_CHECKIN</animList>
+			<animList>JOB_TOOLSMITH_WORK</animList>
+			<animList>JOB_WEAPONSMITH_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_HAMMER</tool>
+	</settler>
+
+	<settler id="SETTLER_SQUADLEADER">
+	    <animLists>
+		    <animList>JOB_SQUADLEADER_CHECKIN</animList>
+		    <animList>JOB_SQUADLEADER_WORK</animList>
+	    </animLists>
+	    <armor>3</armor>
+	    <damage>21</damage>
+	    <health>215</health>
+	    <role>SQUAD_LEADER_ROLE</role>
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_SWORD</tool>
+		<misc>17</misc>
+    </settler>
+  
+    <settler id="SETTLER_STONECUTTER">
+	    <animLists>
+		    <animList>JOB_STONECUTTER_CHECKIN</animList>
+		    <animList>JOB_STONECUTTER_WORK</animList></animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health></health>
+	    <role>FREE_WORKER_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_STONE</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_PICKAXE</tool>
+    </settler>
+
+    <settler id="SETTLER_SWORDSMAN_01">
+	    <animLists>
+		    <animList>JOB_SWORDSMAN_01_CHECKIN</animList>
+		    <animList>JOB_SWORDSMAN_01_WORK</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage>10</damage>
+	    <health>100</health>
+	    <role>SOLDIER_ROLE</role>
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_SWORD</tool>
+    </settler>
+
+
+	<settler id="SETTLER_SWORDSMAN_02">
+		<animLists>
+			<animList>JOB_SWORDSMAN_02_CHECKIN</animList>
+			<animList>JOB_SWORDSMAN_02_WORK</animList>
+		</animLists>
+		<armor>1</armor>
+		<damage>14</damage>
+		<health>150</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+	</settler>
+
+
+	<settler id="SETTLER_SWORDSMAN_03">
+		<animLists>
+			<animList>JOB_SWORDSMAN_03_CHECKIN</animList>
+			<animList>JOB_SWORDSMAN_03_WORK</animList>
+		</animLists>
+		<armor>2</armor>
+		<damage>20</damage>
+		<health>210</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+	</settler>
+	
+    <settler id="SETTLER_TEMPLE_SERVANT">
+	    <animLists>
+		    <animList>JOB_TEMPLE_SERVANT_CHECKIN</animList>
+		    <animList>JOB_TEMPLE_SERVANT_WORK</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health></health>
+	    <role>HOUSE_WORKER_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_NO_SEARCH</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_NO_GOOD</tool>
+    </settler>
+
+    <settler id="SETTLER_THIEF">
+	    <animLists>
+		    <animList>JOB_THIEF_CHECKIN</animList>
+		    <animList>JOB_THIEF_GET_GOOD</animList>
+		    <animList>JOB_THIEF_PUT_DOWN</animList>
+			<animList>JOB_THIEF_GO_FULL</animList>
+			<animList>JOB_THIEF_GO_EMPTY</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health>20</health>
+	    <role>THIEF_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_GOOD</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_NO_GOOD</tool>
+    </settler>
+
+    <settler id="SETTLER_VEHICLEMAKER">
+	    <animLists>
+		    <animList>JOB_VEHICLEMAKER_CHECKIN</animList>
+		    <animList>JOB_VEHICLEMAKER_WORK_1</animList>	<!-- depend on the piles -->
+		    <animList>JOB_VEHICLEMAKER_WORK_2</animList>	<!-- depend on the piles -->	
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health></health>
+	    <role>HOUSE_WORKER_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_NO_SEARCH</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_HAMMER</tool>
+    </settler>
+
+	<settler id="SETTLER_VINTNER">
+		<animLists>
+			<animList>JOB_VINTNER_CHECKIN</animList>
+			<animList>JOB_VINTNER_HARVEST</animList>
+			<animList>JOB_VINTNER_PLANT</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other>CDecoObjMgr::VINE</other>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_VINE</searchType>
+			<searchType>SEARCH_VINE_SEED_POS</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+    <settler id="SETTLER_WATERWORKER">
+	    <animLists>
+    	    <animList>JOB_WATERWORKER_CHECKIN</animList>
+		    <animList>JOB_WATERWORKER_WORK</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health></health>
+	    <role>FREE_WORKER_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_WATER</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_NO_GOOD</tool>
+    </settler>
+
+ 	<settler id="SETTLER_WOODCUTTER">
+		<animLists>
+			<animList>JOB_WOODCUTTER_CHECKIN</animList>
+			<animList>JOB_WOODCUTTER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_TREE</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_AXE</tool>
+	</settler>
+
+</race>
+
+<race id = "RACE_VIKING">
+	<settler id="SETTLER_AXEWARRIOR_01">
+		<animLists>
+			<animList>JOB_AXEWARRIOR_01_CHECKIN</animList>
+			<animList>JOB_AXEWARRIOR_01_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>24</damage>
+	  	<health>75</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BATTLEAXE</tool>
+	</settler>
+
+	<settler id="SETTLER_AXEWARRIOR_02">
+		<animLists>
+			<animList>JOB_AXEWARRIOR_02_CHECKIN</animList>
+			<animList>JOB_AXEWARRIOR_02_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>28</damage>
+		<health>120</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BATTLEAXE</tool>
+	</settler>
+
+	<settler id="SETTLER_AXEWARRIOR_03">
+		<animLists>
+			<animList>JOB_AXEWARRIOR_03_CHECKIN</animList>
+			<animList>JOB_AXEWARRIOR_03_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>32</damage>
+		<health>175</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BATTLEAXE</tool>
+	</settler>
+
+	<settler id="SETTLER_BEEKEEPER">
+		<animLists>
+			<animList>JOB_BEEKEEPER_CHECKIN</animList>
+			<animList>JOB_BEEKEEPER_HARVEST</animList>
+			<animList>JOB_BEEKEEPER_PLANT</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other>CDecoObjMgr::HIVE</other>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_BEEHIVE</searchType>
+			<searchType>SEARCH_BEEHIVE_SEED_POS</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_BOWMAN_01">
+		<animLists>
+			<animList>JOB_BOWMAN_01_CHECKIN</animList>
+			<animList>JOB_BOWMAN_01_WORK</animList>
+			<animList>JOB_BOWMAN_01_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_01_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor></armor>
+		<damage>4</damage>
+		<health>75</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+	
+	<settler id="SETTLER_BOWMAN_02">
+		<animLists>
+			<animList>JOB_BOWMAN_02_CHECKIN</animList>
+			<animList>JOB_BOWMAN_02_WORK</animList>
+			<animList>JOB_BOWMAN_02_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_02_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor> </armor>
+		<damage>6</damage>
+		<health>120</health>
+		<role>SOLDIER_ROLE</role>
+		<searchType></searchType>
+		<search>
+			<searchType></searchType>
+		</search>
+		<tool>GOOD_BOW</tool>
+	</settler>
+	
+	<settler id="SETTLER_BOWMAN_03">
+	 	<animLists>
+			<animList>JOB_BOWMAN_03_CHECKIN</animList>
+			<animList>JOB_BOWMAN_03_WORK</animList>
+			<animList>JOB_BOWMAN_03_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_03_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor></armor>
+		<damage>8</damage>
+		<health>160</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+
+	<settler id="SETTLER_CHARCOALMAKER">
+		<animLists>
+			<animList>JOB_CHARCOALMAKER_CHECKIN</animList>
+			<animList>JOB_CHARCOALMAKER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_MEADMAKER">
+		<animLists>
+			<animList>JOB_MEADMAKER_CHECKIN</animList>
+			<animList>JOB_MEADMAKER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_SQUADLEADER">
+	    <animLists>
+		    <animList>JOB_SQUADLEADER_CHECKIN</animList>
+		    <animList>JOB_SQUADLEADER_WORK</animList>
+	    </animLists>
+	    <armor>3</armor>
+	    <damage>21</damage>
+	    <health>215</health>
+	    <role>SQUAD_LEADER_ROLE</role>
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_SWORD</tool>
+		<misc>17</misc>
+    </settler>
+
+    <settler id="SETTLER_SWORDSMAN_01">
+	    <animLists>
+		    <animList>JOB_SWORDSMAN_01_CHECKIN</animList>
+		    <animList>JOB_SWORDSMAN_01_WORK</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage>10</damage>
+	    <health>100</health>
+	    <role>SOLDIER_ROLE</role>
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_SWORD</tool>
+    </settler>
+
+	<settler id="SETTLER_SWORDSMAN_02">
+		<animLists>
+			<animList>JOB_SWORDSMAN_02_CHECKIN</animList>
+			<animList>JOB_SWORDSMAN_02_WORK</animList>
+		</animLists>
+		<armor>1</armor>
+		<damage>14</damage>
+		<health>150</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+	</settler>
+
+	<settler id="SETTLER_SWORDSMAN_03">
+		<animLists>
+			<animList>JOB_SWORDSMAN_03_CHECKIN</animList>
+			<animList>JOB_SWORDSMAN_03_WORK</animList>
+		</animLists>
+		<armor>2</armor>
+		<damage>20</damage>
+		<health>210</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+	</settler>
+
+    <settler id="SETTLER_THIEF">
+	    <animLists>
+		    <animList>JOB_THIEF_CHECKIN</animList>
+		    <animList>JOB_THIEF_GET_GOOD</animList>
+		    <animList>JOB_THIEF_PUT_DOWN</animList>
+			<animList>JOB_THIEF_GO_FULL</animList>
+			<animList>JOB_THIEF_GO_EMPTY</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health>20</health>
+	    <role>THIEF_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_GOOD</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_NO_GOOD</tool>
+    </settler>
+
+</race>
+
+<race id = "RACE_MAYA">
+	<settler id="SETTLER_AGAVEFARMER">
+		<animLists>
+			<animList>JOB_FARMERAGAVE_CHECKIN</animList>
+			<animList>JOB_FARMERAGAVE_HARVEST</animList>			
+			<animList>JOB_FARMERAGAVE_PLANT</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other>CDecoObjMgr::AGAVE</other>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_AGAVE</searchType>
+			<searchType>SEARCH_AGAVE_SEED_POS</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_BLOWGUNWARRIOR_01">
+		<animLists>
+			<animList>JOB_BLOWGUNWARRIOR_01_CHECKIN</animList>
+			<animList>JOB_BLOWGUNWARRIOR_01_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>3</damage>
+		<health>85</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BLOWGUN</tool>
+	</settler>
+
+	<settler id="SETTLER_BLOWGUNWARRIOR_02">
+		<animLists>
+			<animList>JOB_BLOWGUNWARRIOR_02_CHECKIN</animList>
+			<animList>JOB_BLOWGUNWARRIOR_02_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>4</damage>
+		<health>110</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BLOWGUN</tool>
+	</settler>
+
+	<settler id="SETTLER_BLOWGUNWARRIOR_03">
+		<animLists>
+			<animList>JOB_BLOWGUNWARRIOR_03_CHECKIN</animList>
+			<animList>JOB_BLOWGUNWARRIOR_03_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>5</damage>
+		<health>140</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BLOWGUN</tool>
+	</settler>
+
+	<settler id="SETTLER_BOWMAN_01">
+		<animLists>
+			<animList>JOB_BOWMAN_01_CHECKIN</animList>
+			<animList>JOB_BOWMAN_01_WORK</animList>
+			<animList>JOB_BOWMAN_01_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_01_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor></armor>
+		<damage>4</damage>
+		<health>75</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+	
+	<settler id="SETTLER_BOWMAN_02">
+		<animLists>
+			<animList>JOB_BOWMAN_02_CHECKIN</animList>
+			<animList>JOB_BOWMAN_02_WORK</animList>
+			<animList>JOB_BOWMAN_02_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_02_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor> </armor>
+		<damage>6</damage>
+		<health>120</health>
+		<role>SOLDIER_ROLE</role>
+		<searchType></searchType>
+		<search>
+			<searchType></searchType>
+		</search>
+		<tool>GOOD_BOW</tool>
+	</settler>
+
+	<settler id="SETTLER_BOWMAN_03">
+	 	<animLists>
+			<animList>JOB_BOWMAN_03_CHECKIN</animList>
+			<animList>JOB_BOWMAN_03_WORK</animList>
+			<animList>JOB_BOWMAN_03_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_03_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor></armor>
+		<damage>8</damage>
+		<health>160</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+    
+    <settler id="SETTLER_FORESTER">
+		<animLists>
+			<animList>JOB_FORESTER_CHECKIN</animList>
+			<animList>JOB_FORESTER_PLANT</animList>
+			<animList>JOB_FORESTER_PLANT</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other>CDecoObjMgr::TREE</other>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+			<searchType>SEARCH_TREE_SEED_POS_MAYA</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_TEQUILAMAKER">
+		<animLists>
+			<animList>JOB_TEQUILAMAKER_CHECKIN</animList>
+			<animList>JOB_TEQUILAMAKER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_SQUADLEADER">
+	    <animLists>
+		    <animList>JOB_SQUADLEADER_CHECKIN</animList>
+		    <animList>JOB_SQUADLEADER_WORK</animList>
+	    </animLists>
+	    <armor>3</armor>
+	    <damage>21</damage>
+	    <health>215</health>
+	    <role>SQUAD_LEADER_ROLE</role>
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_SWORD</tool>
+		<misc>17</misc>
+    </settler>
+
+    <settler id="SETTLER_SWORDSMAN_01">
+	    <animLists>
+		    <animList>JOB_SWORDSMAN_01_CHECKIN</animList>
+		    <animList>JOB_SWORDSMAN_01_WORK</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage>10</damage>
+	    <health>100</health>
+	    <role>SOLDIER_ROLE</role>
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_SWORD</tool>
+    </settler>
+
+	<settler id="SETTLER_SWORDSMAN_02">
+		<animLists>
+			<animList>JOB_SWORDSMAN_02_CHECKIN</animList>
+			<animList>JOB_SWORDSMAN_02_WORK</animList>
+		</animLists>
+		<armor>1</armor>
+		<damage>14</damage>
+		<health>150</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+	</settler>
+
+	<settler id="SETTLER_SWORDSMAN_03">
+		<animLists>
+			<animList>JOB_SWORDSMAN_03_CHECKIN</animList>
+			<animList>JOB_SWORDSMAN_03_WORK</animList>
+		</animLists>
+		<armor>2</armor>
+		<damage>20</damage>
+		<health>210</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+	</settler>
+
+</race>
+
+<race id = "RACE_DARK">
+
+	<settler id="SETTLER_MANACOPTERMASTER">
+		<animLists>
+			<animList>JOB_MANACOPTERMASTER_CHECKIN</animList>
+			<animList>JOB_MANACOPTERMASTER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>5</damage>
+		<health>100</health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_BOWMAN_01">
+		<animLists>
+			<animList>JOB_BOWMAN_01_CHECKIN</animList>
+			<animList>JOB_BOWMAN_01_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>5</damage>
+		<health>100</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+
+	<settler id="SETTLER_DARKGARDENER">
+		<animLists>
+			<animList>JOB_DARKGARDENER_CHECKIN</animList>
+			<animList>JOB_DARKGARDENER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health>100</health>
+		<role>DARK_GARDENER_ROLE</role>
+		<search>
+			<searchType>SEARCH_GREEN_LAND</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+    <settler id="SETTLER_MUSHROOMFARMER">
+		<animLists>
+			<animList>JOB_MUSHROOMFARMER_CHECKIN</animList>
+			<animList>JOB_MUSHROOMFARMER_WORK</animList>
+			<animList>JOB_MUSHROOMFARMER_PLANT</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other>CDecoObjMgr::MUSHROOM</other>
+		<role>MUSHROOMFARMER_ROLE</role>
+		<search>
+			<searchType>SEARCH_MUSHROOM</searchType>
+			<searchType>SEARCH_MUSHROOM_SEED_POS</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_SHAMAN">
+		<animLists>
+			<animList>JOB_SHAMAN_CHECKIN</animList>
+			<animList>JOB_SHAMAN_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health>200</health>
+		<role>SHAMAN_ROLE</role>
+		<search>
+			<searchType>SEARCH_SLAVES</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+ 
+	<settler id="SETTLER_SLAVED_SETTLER">
+		<animLists>
+			<animList>JOB_SLAVEDSETTLER_COME_TO_TEMPLE</animList>
+            <animList>JOB_SLAVEDSETTLER_COME_TO_MUSHROOMFARM</animList>
+            <animList>JOB_SLAVEDSETTLER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>SLAVE_ROLE</role>
+		<search>
+			<searchType>SEARCH_MUSHROOM</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+	 
+    <settler id="SETTLER_SWORDSMAN_01">
+	    <animLists>
+		    <animList>JOB_SWORDSMAN_01_CHECKIN</animList>
+		    <animList>JOB_SWORDSMAN_01_WORK</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage>12</damage>
+	    <health>120</health>
+	    <role>SOLDIER_ROLE</role>
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_SWORD</tool>
+    </settler>
+
+    <settler id="SETTLER_THIEF">
+	    <animLists>
+		    <animList>JOB_THIEF_CHECKIN</animList>
+		    <animList>JOB_THIEF_GET_GOOD</animList>
+		    <animList>JOB_THIEF_PUT_DOWN</animList>
+			<animList>JOB_THIEF_GO_FULL</animList>
+			<animList>JOB_THIEF_GO_EMPTY</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage></damage>
+	    <health>20</health>
+	    <role>THIEF_ROLE</role>
+	    <search>
+		    <searchType>SEARCH_GOOD</searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_NO_GOOD</tool>
+    </settler>
+
+</race>
+
+<race id = "RACE_TROJAN">
+	<settler id="SETTLER_SUNFLOWERFARMER">
+		<animLists>
+			<animList>JOB_SUNFLOWERFARMER_CHECKIN</animList>
+			<animList>JOB_SUNFLOWERFARMER_HARVEST</animList>			
+			<animList>JOB_SUNFLOWERFARMER_PLANT</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other>CDecoObjMgr::SUNFLOWER</other>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_SUNFLOWER</searchType>
+			<searchType>SEARCH_SUNFLOWER_SEED_POS</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_BACKPACKCATAPULTIST_01">
+		<animLists>
+			<animList>JOB_BACKPACKCATAPULTIST_01_CHECKIN</animList>
+			<animList>JOB_BACKPACKCATAPULTIST_01_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>5</damage>
+		<health>75</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BACKPACKCATAPULT</tool>
+		<misc>45</misc>
+	</settler>
+
+	<settler id="SETTLER_BACKPACKCATAPULTIST_02">
+		<animLists>
+			<animList>JOB_BACKPACKCATAPULTIST_02_CHECKIN</animList>
+			<animList>JOB_BACKPACKCATAPULTIST_02_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>8</damage>
+		<health>95</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BACKPACKCATAPULT</tool>
+		<misc>50</misc>
+	</settler>
+
+	<settler id="SETTLER_BACKPACKCATAPULTIST_03">
+		<animLists>
+			<animList>JOB_BACKPACKCATAPULTIST_03_CHECKIN</animList>
+			<animList>JOB_BACKPACKCATAPULTIST_03_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage>14</damage>
+		<health>120</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BACKPACKCATAPULT</tool>
+		<misc>55</misc>
+	</settler>
+
+	<settler id="SETTLER_BOWMAN_01">
+		<animLists>
+			<animList>JOB_BOWMAN_01_CHECKIN</animList>
+			<animList>JOB_BOWMAN_01_WORK</animList>
+			<animList>JOB_BOWMAN_01_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_01_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor></armor>
+		<damage>4</damage>
+		<health>75</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+	
+	<settler id="SETTLER_BOWMAN_02">
+		<animLists>
+			<animList>JOB_BOWMAN_02_CHECKIN</animList>
+			<animList>JOB_BOWMAN_02_WORK</animList>
+			<animList>JOB_BOWMAN_02_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_02_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor> </armor>
+		<damage>6</damage>
+		<health>120</health>
+		<role>SOLDIER_ROLE</role>
+		<searchType></searchType>
+		<search>
+			<searchType></searchType>
+		</search>
+		<tool>GOOD_BOW</tool>
+	</settler>
+
+	<settler id="SETTLER_BOWMAN_03">
+	 	<animLists>
+			<animList>JOB_BOWMAN_03_CHECKIN</animList>
+			<animList>JOB_BOWMAN_03_WORK</animList>
+			<animList>JOB_BOWMAN_03_WORK_ABOVE_DOOR</animList>
+            <animList>JOB_BOWMAN_03_WORK_AT_DOOR</animList>
+		</animLists>
+		<armor></armor>
+		<damage>8</damage>
+		<health>160</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_BOW</tool>
+	</settler>
+    
+    <settler id="SETTLER_FORESTER">
+		<animLists>
+			<animList>JOB_FORESTER_CHECKIN</animList>
+			<animList>JOB_FORESTER_PLANT</animList>
+			<animList>JOB_FORESTER_PLANT</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<other>CDecoObjMgr::TREE</other>
+		<role>FREE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+			<searchType>SEARCH_TREE_SEED_POS_MAYA</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_SUNFLOWEROILMAKER">
+		<animLists>
+			<animList>JOB_SUNFLOWEROILMAKER_CHECKIN</animList>
+			<animList>JOB_SUNFLOWEROILMAKER_WORK</animList>
+		</animLists>
+		<armor></armor>
+		<damage></damage>
+		<health></health>
+		<role>HOUSE_WORKER_ROLE</role>
+		<search>
+			<searchType>SEARCH_NO_SEARCH</searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_NO_GOOD</tool>
+	</settler>
+
+	<settler id="SETTLER_SQUADLEADER">
+	    <animLists>
+		    <animList>JOB_SQUADLEADER_CHECKIN</animList>
+		    <animList>JOB_SQUADLEADER_WORK</animList>
+	    </animLists>
+	    <armor>3</armor>
+	    <damage>21</damage>
+	    <health>215</health>
+	    <role>SQUAD_LEADER_ROLE</role>
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_SWORD</tool>
+		<misc>17</misc>
+    </settler>
+
+    <settler id="SETTLER_SWORDSMAN_01">
+	    <animLists>
+		    <animList>JOB_SWORDSMAN_01_CHECKIN</animList>
+		    <animList>JOB_SWORDSMAN_01_WORK</animList>
+	    </animLists>
+	    <armor></armor>
+	    <damage>10</damage>
+	    <health>100</health>
+	    <role>SOLDIER_ROLE</role>
+	    <search>
+		    <searchType></searchType>
+	    </search>
+	    <speed></speed>
+	    <tool>GOOD_SWORD</tool>
+    </settler>
+
+	<settler id="SETTLER_SWORDSMAN_02">
+		<animLists>
+			<animList>JOB_SWORDSMAN_02_CHECKIN</animList>
+			<animList>JOB_SWORDSMAN_02_WORK</animList>
+		</animLists>
+		<armor>1</armor>
+		<damage>14</damage>
+		<health>150</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+	</settler>
+
+	<settler id="SETTLER_SWORDSMAN_03">
+		<animLists>
+			<animList>JOB_SWORDSMAN_03_CHECKIN</animList>
+			<animList>JOB_SWORDSMAN_03_WORK</animList>
+		</animLists>
+		<armor>2</armor>
+		<damage>20</damage>
+		<health>210</health>
+		<role>SOLDIER_ROLE</role>
+		<search>
+			<searchType></searchType>
+		</search>
+		<speed></speed>
+		<tool>GOOD_SWORD</tool>
+	</settler>
+
+</race>
+
+	
+</settlerlist>

@@ -1,0 +1,669 @@
+
+--//---------------------------------
+--//
+--//Create start resources in map
+--//
+--//---------------------------------
+
+
+function CreateStartResourcesFew(_X, _Y, _Player, _AI)
+
+	--// Create Romans
+
+	if Game.PlayerRace(_Player) == 0 then
+    
+		--//Create building
+
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		--//Create piles
+
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   6)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   5)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   5)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  3)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  3)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     2)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 1)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     1)
+
+		--//Create settlers
+
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         3)
+
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         1)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      16)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01,  6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     2)
+	end
+
+	--// Create Vikings
+
+	if Game.PlayerRace(_Player) == 1 then
+    
+		--//Create building
+
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		--//Create piles
+
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   7)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   7)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   2)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   4)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  3)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  3)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     3)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 1)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     1)
+
+		--//Create settlers
+
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         3)
+
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         1)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      16)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01,  6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     2)
+	end
+
+	--// Create Maya
+
+	if Game.PlayerRace(_Player) == 2 then
+    
+		--//Create building
+
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		--//Create piles
+
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   1)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   4)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  3)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  3)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     1)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 2)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     1)
+
+		--//Create settlers
+
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         3)
+
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         1)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      16)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01,  6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     2)
+	end
+
+	--// Create Trojan
+
+	if Game.PlayerRace(_Player) == 4 then
+    
+		--//Create building
+
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		--//Create piles
+
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   6)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   4)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  3)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  3)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     2)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 1)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     1)
+
+		--//Create settlers
+
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         3)
+
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         1)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      16)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01,  6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     2)
+	end
+
+	--//Create AI stuff
+    
+    if _AI >= 1 then
+    
+        Goods.AddPileEx(_X, _Y, Goods.BOARD, 8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE, 8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE, 8)
+        
+        Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+        
+    end
+    
+    if _AI >= 2 then
+
+        Goods.AddPileEx(_X, _Y, Goods.BOARD, 8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE, 8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE, 8)
+        
+        Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 5)
+        Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+    
+    end
+    
+end
+
+
+function CreateStartResourcesMedium(_X, _Y, _Player, _AI)
+        
+	--//Create Romans
+	if Game.PlayerRace(_Player) == 0 then
+		
+		--//Create building
+    
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		-- Create piles
+    
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   7)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   6)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   6)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   6)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   5)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  7)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     5)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 4)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     2)
+		Goods.AddPileEx(_X, _Y, Goods.ROD,     1)
+		Goods.AddPileEx(_X, _Y, Goods.SCYTHE,  1)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    6)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    4)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    6)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 5)
+
+		-- Create settlers
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        5)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         5)
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    4)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      32)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 10)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     4)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     3)
+	end
+
+
+	--//Create Vikings
+	if Game.PlayerRace(_Player) == 1 then
+		
+		--//Create building
+    
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		-- Create piles
+    
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   4)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   2)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  7)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     7)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 3)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     3)
+		Goods.AddPileEx(_X, _Y, Goods.ROD,     1)
+		Goods.AddPileEx(_X, _Y, Goods.SCYTHE,  1)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    6)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    4)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    6)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 5)
+
+		-- Create settlers
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        5)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         5)
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    4)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      32)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 10)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     4)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     3)
+	end
+
+	--//Create Maya
+	if Game.PlayerRace(_Player) == 2 then
+		
+		--//Create building
+    
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		-- Create piles
+    
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   4)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  7)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     4)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 5)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     2)
+		Goods.AddPileEx(_X, _Y, Goods.ROD,     1)
+		Goods.AddPileEx(_X, _Y, Goods.SCYTHE,  1)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    6)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    4)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    6)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 5)
+
+		-- Create settlers
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        5)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         5)
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    4)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      32)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 10)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     4)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     3)
+	end
+
+		--//Create Trojans
+	if Game.PlayerRace(_Player) == 4 then
+		
+		--//Create building
+    
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		-- Create piles
+    
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   6)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  7)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     5)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 4)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     2)
+		Goods.AddPileEx(_X, _Y, Goods.ROD,     1)
+		Goods.AddPileEx(_X, _Y, Goods.SCYTHE,  1)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   5)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    6)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    4)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    6)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 5)
+
+		-- Create settlers
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        5)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         5)
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    4)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      32)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 10)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     4)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     3)
+	end
+
+    -- Create AI stuff
+    
+    if _AI >= 1 then
+    
+        Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+        
+        Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+        
+    end
+    
+    if _AI >= 2 then
+
+        Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+        
+        Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 5)
+        Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+    
+    end
+    
+end
+
+
+function CreateStartResourcesMany(_X, _Y, _Player, _AI)
+
+	--//Create Romans
+	if Game.PlayerRace(_Player) == 0 then
+
+		--// Create building
+    
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		--//Create piles
+    
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   6)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   7)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  8)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  8)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  4)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  6)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     8)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 5)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     3)
+		Goods.AddPileEx(_X, _Y, Goods.ROD,     2)
+		Goods.AddPileEx(_X, _Y, Goods.SCYTHE,  3)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    5)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    3)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    8)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    8)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    6)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    4)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 8)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 4)
+		Goods.AddPileEx(_X, _Y, Goods.GOLDORE, 2)
+    
+
+		--//Create settlers
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         2)
+
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      50)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 12)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     5)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DONKEY,        3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.HUNTER,        2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+
+	end
+    
+	--//Create Vikings
+	if Game.PlayerRace(_Player) == 1 then
+
+		--// Create building
+    
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		--//Create piles
+    
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   7)
+
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   6)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   6)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   1)
+
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  8)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  8)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  4)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  6)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     4)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     5)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 5)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     4)
+		Goods.AddPileEx(_X, _Y, Goods.ROD,     2)
+		Goods.AddPileEx(_X, _Y, Goods.SCYTHE,  3)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    5)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    3)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    8)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    8)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    6)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    4)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 8)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 4)
+		Goods.AddPileEx(_X, _Y, Goods.GOLDORE, 2)
+    
+
+		--//Create settlers
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         2)
+
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      50)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 12)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     5)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DONKEY,        3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.HUNTER,        2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+
+	end
+
+	--//Create Maya
+	if Game.PlayerRace(_Player) == 2 then
+
+		--// Create building
+    
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		--//Create piles
+    
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   3)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   2)
+
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  8)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  8)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  4)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  6)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     8)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 5)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     3)
+		Goods.AddPileEx(_X, _Y, Goods.ROD,     2)
+		Goods.AddPileEx(_X, _Y, Goods.SCYTHE,  3)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    5)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    3)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    8)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    8)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    6)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    4)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 8)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 4)
+		Goods.AddPileEx(_X, _Y, Goods.GOLDORE, 2)
+    
+
+		--//Create settlers
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         2)
+
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      50)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 12)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     5)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DONKEY,        3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.HUNTER,        2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+
+	end
+
+	--//Create Trojans
+	if Game.PlayerRace(_Player) == 4 then
+
+		--// Create building
+    
+		Buildings.AddBuildingEx(_X, _Y, _Player, Buildings.GUARDTOWERSMALL)
+
+		--//Create piles
+    
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BOARD,   7)
+		
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   8)
+		Goods.AddPileEx(_X, _Y, Goods.STONE,   6)
+
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  8)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  8)
+		Goods.AddPileEx(_X, _Y, Goods.SHOVEL,  4)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  8)
+		Goods.AddPileEx(_X, _Y, Goods.HAMMER,  6)
+		Goods.AddPileEx(_X, _Y, Goods.AXE,     8)
+		Goods.AddPileEx(_X, _Y, Goods.PICKAXE, 6)
+		Goods.AddPileEx(_X, _Y, Goods.SAW,     3)
+		Goods.AddPileEx(_X, _Y, Goods.ROD,     2)
+		Goods.AddPileEx(_X, _Y, Goods.SCYTHE,  3)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.FISH,    4)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.BREAD,   8)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    5)
+		Goods.AddPileEx(_X, _Y, Goods.MEAT,    3)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    8)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    8)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    6)
+		Goods.AddPileEx(_X, _Y, Goods.COAL,    4)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 8)
+		Goods.AddPileEx(_X, _Y, Goods.IRONORE, 4)
+		Goods.AddPileEx(_X, _Y, Goods.GOLDORE, 2)
+    
+
+		--//Create settlers
+    
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BUILDER,        2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DIGGER,         2)
+
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SMITH,         3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.MINEWORKER,    6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.CARRIER,      50)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 12)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.BOWMAN_01,     6)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.GEOLOGIST,     5)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.DONKEY,        3)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.HUNTER,        2)
+		Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+
+	end
+
+    -- Create AI stuff
+    
+    if _AI >= 1 then
+    
+        Goods.AddPileEx(_X, _Y, Goods.BOARD, 8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE, 8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE, 8)
+        
+        Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+        
+    end
+    
+    if _AI >= 2 then
+
+        Goods.AddPileEx(_X, _Y, Goods.BOARD, 8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE, 8)
+        Goods.AddPileEx(_X, _Y, Goods.STONE, 8)
+        
+        Settlers.AddSettlers(_X, _Y, _Player, Settlers.SWORDSMAN_01, 5)
+        Settlers.AddSettlers(_X, _Y, _Player, Settlers.PIONEER,      5)
+    
+    end
+    
+end
