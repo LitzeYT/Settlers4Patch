@@ -13,7 +13,7 @@ Originale Version
 Aktuelle Version 
 
 ### *CommunityPatchPTR* [4.1.0]
-Patch 3.1.00 - MAGIE-OVERHAUL [BETA-RELEASE]
+Patch 4.1.00 - MAGIE-OVERHAUL [BETA-RELEASE]
 
 
 ALLE VÖLKER
