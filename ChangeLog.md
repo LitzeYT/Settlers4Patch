@@ -12,8 +12,37 @@ Originale Version
 ### *CommunityPatch* [3.00.1528]
 Aktuelle Version 
 
-### *CommunityPatchPTR* [4.00.1527]
-- Abstimmung Aktuell keine am Laufen
+### *CommunityPatchPTR* [4.1.0]
+Patch 3.1.00 - MAGIE-OVERHAUL [BETA-RELEASE]
+
+
+ALLE VÖLKER
+
+Göttliche Gabe :
+Der Radius wurde erhöht auf 24  
+Die Minimale Stapelmenge wurde von 3 auf 6 erhöht.  
+Die Maximale Stapelmenge wurde von 5 auf 10 erhöht.  
+
+Die Anzahl der Manapunkte die man pro Zyklus erhält wurde von 1 auf 3 erhöht.  
+
+ 
+ALLE VÖLKER AUßER RÖMER  
+
+Die Römer besitzen die schnellste Zeit bei der Manaproduktion(23 Sekunden) deshalb bleiben diese hier Unberührt.  
+Die Restlichen Völker haben nun eine Zeit von 27 Sekunden. Diese Zeit lag vorher bei 32 Sekunden.  
+Ausgenommen ist hier das Wachstum der einzelnen benötigten Güter.  
+
+MAYA 
+
+Der Radius des Zaubers "Abkürzung" wurde von 8 auf 12 erhöht  
+  
+Trojaner:  
+ 
+Die Kosten der Sonnenblumenfarm wurde von 4 Holz - 2 Stein auf 4 Steine - 2 Holz geändert  
+
+In den nächsten Tagen werden weitere Releases folgen, die den Patch ergänzen werden.  
+Feedback gerne im Discord.  
+
 
 ### *CommunityPatchTournamentCustom* [2.55.1527]
 Basiert auf Community Patch 3.00.1527 mit zusätlichen Anpassungen für die Gruppenphase.
