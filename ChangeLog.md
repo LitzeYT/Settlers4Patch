@@ -12,36 +12,139 @@ Originale Version
 ### *CommunityPatch* [3.00.1528]
 Aktuelle Version 
 
-### *CommunityPatchPTR* [4.1.0]
-Patch 4.1.00 - MAGIE-OVERHAUL [BETA-RELEASE]
+### *CommunityPatchPTR* [4.1.1
+Patch 4.1.1 - MAGIE-OVERHAUL [BETA-RELEASE]
+
+**Allgemeine Änderungen**
+
+Das Mana pro Großem Tempel wurde von 12 auf 24 erhöht.   
+Das Mana pro Spende wurde von 3 auf 2 verringert.  
+Die Rate der Ansteigenen Kosten der Zauber wurde von 10 auf 5 verringert.  
+
+**Allgemeine Änderungen für Trojaner, Maya & Wikinger**  
+
+Die Zeit bis zum Entstehen des Manas wurde von 32 Sekunden auf 27 Sekunden verringert.   
+Römer besitzen vom sich aus einen Zyklus von 23 Sekunden.   
 
 
-ALLE VÖLKER
+RÖMER:  
 
-Göttliche Gabe :
-Der Radius wurde erhöht auf 24  
+Göttliche Gabe  
+Der Radius wurde erhöht auf 24 
 Die Minimale Stapelmenge wurde von 3 auf 6 erhöht.  
+Die Maximale Stapelmenge wurde von 5 auf 10 erhöht.    
+
+
+Fisch zu Stein  
+Der Radius wurde von 8 auf 24 erhöht 
+Die Minmale Menge der Wirkung wurde von 6 auf 16 erhöht
+DIe Maximale Menge der Wirkung wurde von 6 auf 32 erhöht
+
+Fischreichtum  
+Der Raidus wurde von 15 auf 50 erhöht  
+Die Minimale Menge der Wirkung wurde von 40 auf 80 erhöht  
+Die Maximale Menge der Wirkung wurde von 60 auf 120 erhöht  
+
+Schutzschild  
+Die Kosten wurden von 17 auf 15 verringert.  
+Der Radius wurde von8 auf 32 erhöht.  
+Die Minmale Menge und Maximale Menge der Wirkung wurde von 10 auf 20 erhöht.  
+
+Babaren Bekehren  
+Die Kosten wurden von 40 auf 30 verringert.  
+Der Raidus wurde von 4 auf 8 erhöht  
+Die Maixmale Menge und Minimale Menge der Wirkung wurde von 5 auf 7 erhöht  
+
+Ressourcen Auffrischen  
+Die Dauer des Zaubers wure von 20 Sekunden auf 240 Sekunden erhöht  
+
+MAYA:  
+
+Göttliche Gabe :  
+Der Radius wurde erhöht auf 24    
+Die Minimale Stapelmenge wurde von 3 auf 6 erhöht.    
+Die Maximale Stapelmenge wurde von 5 auf 10 erhöht.    
+
+Abkürzung  
+Der Radius wurde von 8 auf 12 erhöht  
+
+Gegner Bannen  
+Der Radius wurde von 10 auf 20 erhöht.  
+
+Aufwertung   
+Der Radius wurde von 8 auf 20 erhöht  
+Die Maximale Menge der Wirkung wurde von 10 auf 15 erhöht  
+
+Wikinger:  
+ 
+Gebäude   
+Die Menge des erhaltenen Wassers pro Arbeitszyklus wurde von 1 auf 2 erhöht.  
+
+Zauber  
+
+Göttliche Gabe :  
+Der Radius wurde erhöht auf 24    
+Die Minimale Stapelmenge wurde von 3 auf 6 erhöht.    
+Die Maximale Stapelmenge wurde von 5 auf 10 erhöht.    
+
+Abkürzung  
+Der Radius wurde von 8 auf 12 erhöht  
+
+Stein zu Eisen  
+Der Radius wurde von 10 auf 50 erhöht.  
+Die Minimale Menge der Wirkung wurde von 6 auf 16 erhöht.  
+Die Maximale Menge der Wirkuung wurde von 6 auf 32 erhöht.  
+
+Wildreichtum  
+Der Raidus wurde von 8 auf 40 erhöht.  
+Die Minimale Menge der Wirkung wurde von 4 auf 12 erhöht.  
+Die Maximale Menge der Wirkung wurde von 8 auf 25 erhöht.  
+ 
+Gegner einfrieren  
+Der Radius wurde von 20 auf 40 erhöht.  
+Die Maximale Menge der Wirkung wurde von 25 auf 30 erhöht.  
+Die Dauer wurde von 7 auf 25 erhöht.  
+
+Blutrausch   
+Der Radius wurde von 10 auf 25 erhöht.  
+Die Minimale und Maximale Menge der Wirkung wurde von 15 auf 20 erhöht.  
+Die Dauer wurde von 15 auf 25 erhöht.  
+
+Angst  
+Die Maximale Menge der Wirkung wurde von 15 auf 20 erhöht.  
+Die Dauer wurde von 15 auf 20 erhöht.  
+
+TROJANER:  
+
+Gebäude  
+ 
+Die Kosten der Sonnenblumenfarm wurde von 4 Holz - 2 Stein auf 4 Steine - 2 Holz geändert.   
+ 
+Zauber  
+
+Göttliche Gabe :  
+Der Radius wurde erhöht auf 24    
+Die Minimale Stapelmenge wurde von 3 auf 6 erhöht.    
 Die Maximale Stapelmenge wurde von 5 auf 10 erhöht.  
 
-Die Anzahl der Manapunkte die man pro Zyklus erhält wurde von 1 auf 3 erhöht.  
-
- 
-ALLE VÖLKER AUßER RÖMER  
-
-Die Römer besitzen die schnellste Zeit bei der Manaproduktion(23 Sekunden) deshalb bleiben diese hier Unberührt.  
-Die Restlichen Völker haben nun eine Zeit von 27 Sekunden. Diese Zeit lag vorher bei 32 Sekunden.  
-Ausgenommen ist hier das Wachstum der einzelnen benötigten Güter.  
-
-MAYA 
-
-Der Radius des Zaubers "Abkürzung" wurde von 8 auf 12 erhöht  
+Warenumwandlung  
+Der Radius wurde von 8 auf 24 erhöht.  
+Die Minmale Menge der Wirkung wurde von 6 auf 16 erhöht.  
+DIe Maximale Menge der Wirkung wurde von 6 auf 32 erhöht.  
   
-Trojaner:  
- 
-Die Kosten der Sonnenblumenfarm wurde von 4 Holz - 2 Stein auf 4 Steine - 2 Holz geändert  
+Tor der Angst  
+Die Dauer wurde von 8 auf 20 erhöht.  
 
-In den nächsten Tagen werden weitere Releases folgen, die den Patch ergänzen werden.  
-Feedback gerne im Discord.  
+Frieden Stiften  
+Die Kosten wurden von 30 auf 25 verringert.  
+Die Maximale Menge der Wirkung wurde von 10 auf 13 erhöht.  
+
+Angriff aus dem Nichts  
+Die Minimale und Maximale Menge der Wirkung wurde von 5 auf 10 erhöht.  
+Die Dauer wurde von 20 auf 40 erhöht.  
+ 
+Orkael von Delphi  
+Die Dauer wurde von 2 Minuten auf 4 Minuten erhöht.  
 
 
 ### *CommunityPatchTournamentCustom* [2.55.1527]
