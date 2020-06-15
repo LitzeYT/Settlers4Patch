@@ -12,7 +12,7 @@ Originale Version
 ### *CommunityPatch* [3.00.1528]
 Aktuelle Version 
 
-### *CommunityPatchPTR* [4.1.1
+### *CommunityPatchPTR* [4.1.1]
 Patch 4.1.1 - MAGIE-OVERHAUL [BETA-RELEASE]
 
 **Allgemeine Änderungen**
