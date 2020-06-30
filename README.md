@@ -12,8 +12,17 @@
 # Geistiges Eigentum
 Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anwendung, unterliegen dem jeweils anwendbaren Recht zum Schutz des Geistigen Eigentums von Blue Byte, Ubisoft oder den Erstellern dieser Modifikation. Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anwendung dürfen ohne Genehmigung des jeweiligen Autors bzw. den jeweiligen Rechteinhabern weder vervielfältigt, noch auszugsweise weiterverwendet werden. Eingetragene Markenrechte wurden im Rahmen der Modifikation oder deren Dokumentation nicht als solche gesondert gekennzeichnet.
 
-# Modder
-- LITZE (Main) [Discord: Sc0uty#8434]
+# Community Patch Team
+- LitZe   
+- Xanatos  
+- LuckyStrike  
+- Bierdeckel  
+- Vendetta  
+- Gimli  
+- AyJayKay  
+- WizzardMaker  
+- Earthwalker  
+- Relentless  
 
 ##  "Editor+"
 - MuffinMario 
