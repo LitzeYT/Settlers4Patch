@@ -1,11 +1,5 @@
 # News
-Die Anwendung für den Community Patch steht nun in der Version 1.0.0.1016 zur Verfügung.  
-Automatischer Download, Sprachauswahl, Spielgeschwindigkeit.  
-UPDATE: Versionsauswahl.  
-UPDATE: Editor+ und Texturenwechsler in allen Editionen verfügbar.  
-UPDATE: Schnellerer Versionswechsel durch weniger Downloads und weniger Dateioperationen.  
-HOTFIX: Die Versionsnummern werden nun korrekt Angezeigt.   
-HOTFIX: Es kann wieder bedenkenlos zur History Edition gewechselt werden.  
+Das Community Patch Team bittet ein wenig um Geduld bei Updates, momentan sind sehr viele Privat sehr eingebunden. 
 
 ### HistoryEdition [2.50.1516]
 Originale Version 
