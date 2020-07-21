@@ -13,138 +13,92 @@ Originale Version
 Aktuelle Version 
 
 ### *CommunityPatchPTR* [4.1.1]
-Patch 4.1.1 - MAGIE-OVERHAUL [BETA-RELEASE]
+PTR Patch 4.31.00 - Balancing Patch  
+Truppen  
+Wikinger  
+Axtkämpfer  
 
-**Allgemeine Änderungen**
+Level 1 - Leben von 75 auf 100 erhöht.  
+Level 2 - Leben von 120 auf 150 erhöht.  
+Level 3 - Leben von 140 auf 175 erhöht.  
 
-Das Mana pro Großem Tempel wurde von 12 auf 24 erhöht.   
-Das Mana pro Spende wurde von 3 auf 2 verringert.  
-Die Rate der Ansteigenen Kosten der Zauber wurde von 10 auf 5 verringert.  
+Angriffsgeschwindigkeit erhöht (gut gegen Schwertkämpfer).  
 
-**Allgemeine Änderungen für Trojaner, Maya & Wikinger**  
+Maya  
+Blasrohrschützen  
 
-Die Zeit bis zum Entstehen des Manas wurde von 32 Sekunden auf 27 Sekunden verringert.   
-Römer besitzen vom sich aus einen Zyklus von 23 Sekunden.   
+Level 1 - Leben von 85 auf 95 erhöht.   
+Level 2 - Leben von 110 auf 125 erhöht.  
+Level 3 - Leben von 140 auf 175 erhöht.  
 
+Trojaner
+Rucksackkatapultisten
 
-RÖMER:  
+Level 1 - AOE Schaden von 50 auf 35 verringert.  
+Level 2 - AOE Schaden von 55 auf 40 verringert.  
+Level 3 - AOE Schaden von 60 auf 50 verringert.  
 
-Göttliche Gabe  
-Der Radius wurde erhöht auf 24 
-Die Minimale Stapelmenge wurde von 3 auf 6 erhöht.  
-Die Maximale Stapelmenge wurde von 5 auf 10 erhöht.    
-
-
-Fisch zu Stein  
-Der Radius wurde von 8 auf 24 erhöht 
-Die Minmale Menge der Wirkung wurde von 6 auf 16 erhöht
-DIe Maximale Menge der Wirkung wurde von 6 auf 32 erhöht
-
-Fischreichtum  
-Der Raidus wurde von 15 auf 50 erhöht  
-Die Minimale Menge der Wirkung wurde von 40 auf 80 erhöht  
-Die Maximale Menge der Wirkung wurde von 60 auf 120 erhöht  
+Zauber  
+Römer  
+Göttliches Geschenk  
+von 6 - 10 Stapel auf 6 - 8 Stapel verringert.  
+Kosten von 7 Mana auf 12 Mana erhöht.  
 
 Schutzschild  
-Die Kosten wurden von 17 auf 15 verringert.  
-Der Radius wurde von8 auf 32 erhöht.  
-Die Minmale Menge und Maximale Menge der Wirkung wurde von 10 auf 20 erhöht.  
+Kosten von 10 Mana auf 20 Mana erhöht.  
+Mindestens 10 Einheiten  
+Maximal 15 Einheiten  
 
-Babaren Bekehren  
-Die Kosten wurden von 40 auf 30 verringert.  
-Der Raidus wurde von 4 auf 8 erhöht  
-Die Maixmale Menge und Minimale Menge der Wirkung wurde von 5 auf 7 erhöht  
+Jupiters Blitz  
+Kosten von 25 Mana auf 35 Mana erhöht.  
+Mindestens 5 Soldaten  
+Maximal 10 Soldaten  
 
-Ressourcen Auffrischen  
-Die Dauer des Zaubers wure von 20 Sekunden auf 240 Sekunden erhöht  
+Babaren bekehren  
+Kosten von 35 auf 45 erhöht.  
+Minimal 7 Truppen.  
+Maximal 7 Truppen.  
 
-MAYA:  
+Maya  
+Verbannen   
+Kosten von 20 auf 25 erhöht.    
+Radius von 20 auf 15 verringert.  
+Mindestanzahl an Truppen von 20 auf 10 verringert.  
+Maximalanzahl an Truppen von 20 auf 15 verringert.  
 
-Göttliche Gabe :  
-Der Radius wurde erhöht auf 24    
-Die Minimale Stapelmenge wurde von 3 auf 6 erhöht.    
-Die Maximale Stapelmenge wurde von 5 auf 10 erhöht.    
+Schützen Strafen
+Kosten von 25 auf 35 erhöht.
+Radius von 8 auf 10 erhöht.
+Mindestanzahl an Truppen von 10 auf 5 verringert.
+Maximalanzahl an Truppen von 15 auf 12 verringert.
 
-Abkürzung  
-Der Radius wurde von 8 auf 12 erhöht  
-
-Gegner Bannen  
-Der Radius wurde von 10 auf 20 erhöht.  
-
-Aufwertung   
-Der Radius wurde von 8 auf 20 erhöht  
-Die Maximale Menge der Wirkung wurde von 10 auf 15 erhöht  
-
-Wikinger:  
- 
-Gebäude   
-Die Menge des erhaltenen Wassers pro Arbeitszyklus wurde von 1 auf 2 erhöht.  
-
-Zauber  
-
-Göttliche Gabe :  
-Der Radius wurde erhöht auf 24    
-Die Minimale Stapelmenge wurde von 3 auf 6 erhöht.    
-Die Maximale Stapelmenge wurde von 5 auf 10 erhöht.    
-
-Abkürzung  
-Der Radius wurde von 8 auf 12 erhöht  
-
-Stein zu Eisen  
-Der Radius wurde von 10 auf 50 erhöht.  
-Die Minimale Menge der Wirkung wurde von 6 auf 16 erhöht.  
-Die Maximale Menge der Wirkuung wurde von 6 auf 32 erhöht.  
-
-Wildreichtum  
-Der Raidus wurde von 8 auf 40 erhöht.  
-Die Minimale Menge der Wirkung wurde von 4 auf 12 erhöht.  
-Die Maximale Menge der Wirkung wurde von 8 auf 25 erhöht.  
- 
+Beförderung  
+Kosten von 35 auf 37 erhöht.   
+Mindestanzahl an Truppen von 10 auf 8 verringert.  
+Maximalanzahl an Truppen von 10 auf 12 erhöht.  
+Wikinger  
 Gegner einfrieren  
-Der Radius wurde von 20 auf 40 erhöht.  
-Die Maximale Menge der Wirkung wurde von 25 auf 30 erhöht.  
-Die Dauer wurde von 7 auf 25 erhöht.  
+Maximalanzahl an Truppen von 25 auf 15 verringert.  
+Dauer von 10 Sekunden auf 7 verringert.  
 
-Blutrausch   
-Der Radius wurde von 10 auf 25 erhöht.  
-Die Minimale und Maximale Menge der Wirkung wurde von 15 auf 20 erhöht.  
-Die Dauer wurde von 15 auf 25 erhöht.  
+Blutrausch  
+Kosten auf 25 Mana erhöht.  
+Mindestanzahl an Truppen von 15 auf 10 verringert.  
+Maximalanzahl an Truppen von 20 auf 15 verringert.  
+Dauer von 15 Sekunden auf 10 Sekunden verringert.  
 
 Angst  
-Die Maximale Menge der Wirkung wurde von 15 auf 20 erhöht.  
-Die Dauer wurde von 15 auf 20 erhöht.  
+Kosten von 20 auf 27 erhöht.   
+Reichweite von 25 auf 20 verringert.  
+Mindestanzahl an Truppen von 15 auf 8 verringert.
+Maximalanzahl an Truppen von 20 auf 15 verringert.  
+Dauer von 15 Sekunden auf 7 Sekunden verringert.  
 
-TROJANER:  
-
-Gebäude  
- 
-Die Kosten der Sonnenblumenfarm wurde von 4 Holz - 2 Stein auf 4 Steine - 2 Holz geändert.   
- 
-Zauber  
-
-Göttliche Gabe :  
-Der Radius wurde erhöht auf 24    
-Die Minimale Stapelmenge wurde von 3 auf 6 erhöht.    
-Die Maximale Stapelmenge wurde von 5 auf 10 erhöht.  
-
-Warenumwandlung  
-Der Radius wurde von 8 auf 24 erhöht.  
-Die Minmale Menge der Wirkung wurde von 6 auf 16 erhöht.  
-DIe Maximale Menge der Wirkung wurde von 6 auf 32 erhöht.  
-  
-Tor der Angst  
-Die Dauer wurde von 8 auf 20 erhöht.  
-
-Frieden Stiften  
-Die Kosten wurden von 30 auf 25 verringert.  
-Die Maximale Menge der Wirkung wurde von 10 auf 13 erhöht.  
-
-Angriff aus dem Nichts  
-Die Minimale und Maximale Menge der Wirkung wurde von 5 auf 10 erhöht.  
-Die Dauer wurde von 20 auf 40 erhöht.  
- 
-Orkael von Delphi  
-Die Dauer wurde von 2 Minuten auf 4 Minuten erhöht.  
+Trojaner  
+Frieden stiften   
+Kosten von 20 auf 25 erhöht.  
+Mindestanzahl an Truppen von 10 auf 5 verringert.  
+Maximalanzahl an Truppen von 20 auf 10 verringert.  
 
 
 ### *CommunityPatchTournamentCustom* [2.55.1527]
