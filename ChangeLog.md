@@ -12,7 +12,7 @@ Originale Version
 ### *CommunityPatch* [3.00.1528]
 Aktuelle Version 
 
-### *CommunityPatchPTR* [4.1.1]
+### *CommunityPatchPTR* [4.3.1]
 PTR Patch 4.31.00 - Balancing Patch  
 Truppen  
 Wikinger  
