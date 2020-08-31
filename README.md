@@ -26,7 +26,7 @@ Sämtliche Grafiken und Textinhalte, sowie alle anderen Informationen dieser Anw
 
 
 ## "Plugins"
-Der Siedler IV Community Patch verwendet entweder eigens geschriebene Plugins oder von externen Moddern, zur Programmierung und Verwendung wird die Mod-API von Nyfrk verwendet. 
+Der Siedler IV Community Patch verwendet entweder eigens geschriebene Plugins oder von externen Moddern, zur Programmierung und Verwendung wird die Mod-API von Nyfrk benutzt. 
 Diese Plugins fallen entweder unter der GPLizenz oder LPGLizenz und sind somit komplett OpenSource und stehen euch zur Verfügung. 
 
 Nyfrk Mod API - https://github.com/nyfrk/S4ModApi
