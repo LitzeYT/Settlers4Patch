@@ -20,6 +20,15 @@ o	Ranked System
  
 Änderungen CP
 -	Allgemeine Balance Änderungen:  
+-	Die Siedler Anzahl wurde für jeden Spieler auf 65535 gesetzt.     
+-	Die Maximale Träger Anzahl wurde auf 65535 gesetzt    
+-	Ein Bug der dafür sorgen konnte, dass die Musik der Maya nicht mehr spielt wurde behoben.    
+-	Ein bisher unbenutztes Lied der Trojaner wurde aktiviert.    
+-	Das Ram Limit wurde auf 4GB erhöht.     
+-	Eine Meldung zeigt nun fehlerfrei an sobald eine Mine nichts mehr fördert.    
+-	Eine Meldung zeigt nun fehlerfrei an sobald eine Fischerhütte keinen Fisch mehr produziert.    
+-	Der Anzeigebug der Römerkaserne wurde behoben. Das Anzeigebild des Stufe 3 Schwertkämpfers war zuvor identisch mit dem des Stufe 2 Schwertkämpfers.    
+-	Einige Rechtschreibefehler der deutschen Version wurden behoben.   
 o	Die Anzahl der maximalen Tiere auf der Karte beträgt nun 1500 statt 1000.  
 o	Der Anteil der jagdbaren Tiere beträgt nun 75% statt 50%.  
 o	Der Arbeitsradius des Jägers aller Völker wurde von 4 auf 8 verdoppelt.  
