@@ -9,7 +9,7 @@
 
 
 
-### *CommunityPatch* [3.00.1528]
+### *CommunityPatch* [4.66.1528]
 Allgemeine Features des Community Patches  
 -	Texturenwechsler  
 -	Zusätzliche Optionen für die Spielgeschwindigkeit einstellbar  
@@ -97,7 +97,7 @@ o	Stufe 2 Sanitäter haben nur einen Heilwert von 5 statt 4.
 o	Stufe 3 Sanitäter haben nun einen Lebenswert von 150 statt 185.  
 o	Stufe 3 Sanitäter haben nun einen Heilwert von 10 statt 5.  
 
--	Coming soon:  
+ 
 o	Dunkles Volk spielbar und gebalanced.  
 
 
