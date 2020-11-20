@@ -1,6 +1,6 @@
 
 # Aktuelle Inhalte des Community Patches
-## Weiter unten findet Ihr den Aktuellsten Changelog
+## Weiter unten findet Ihr den aktuellsten Changelog
 
 ### *HistoryEdition* [2.50.1516]
 
