@@ -1,12 +1,10 @@
 
-# The Settlers IV Community Patch ChangeLog
-
-
-### *WORK IN PROGRESS* 
-### *WIRD ÜBERARBEITET*
+# Aktuelle Inhalte des Community Patches
+# Weiter unten findet Ihr den Aktuellsten Changelog
 
 ### *HistoryEdition* [2.50.1516]
 
+o	Vanilla Siedler IV
 
 
 ### *CommunityPatch* [4.66.1528]
@@ -97,15 +95,15 @@ o	Stufe 2 Sanitäter haben nur einen Heilwert von 5 statt 4.
 o	Stufe 3 Sanitäter haben nun einen Lebenswert von 150 statt 185.  
 o	Stufe 3 Sanitäter haben nun einen Heilwert von 10 statt 5.  
 
- 
-o	Dunkles Volk spielbar und gebalanced.  
-
-
 ### *CommunityPatchPTR* [4.3.1]
 
 
-### *CommunityPatchLight* [2.55.1527]
-Änderungen CP light   
+
+o	Alle Änderungen des Community Patches.  
+o	Dunkles Volk spielbar und gebalanced.  
+
+### *HistoryEditionPlus* [1.00.1522]
+  
 -	Die Siedler Anzahl wurde für jeden Spieler auf 65535 gesetzt.     
 -	Die Maximale Träger Anzahl wurde auf 65535 gesetzt    
 -	Ein Bug der dafür sorgen konnte, dass die Musik der Maya nicht mehr spielt wurde behoben.    
@@ -116,15 +114,15 @@ o	Dunkles Volk spielbar und gebalanced.
 -	Der Anzeigebug der Römerkaserne wurde behoben. Das Anzeigebild des Stufe 3 Schwertkämpfers war zuvor identisch mit dem des Stufe 2 Schwertkämpfers.    
 -	Einige Rechtschreibefehler der deutschen Version wurden behoben.   
 
-### *CommunityPatchTournamentRandom* [2.56.1527]
+
+### *CommunityPatchDLC* [v8]
+
+o	Neue Maps wurden Hinzugefügt.  
 
 
-### *CommunityPatchDLC* [v2]
-
+# The Settlers IV Community Patch ChangeLog
 
 ## ALLGEMEINE ÄNDERUNGEN
-
-
 
 ## BALANCE
 
@@ -140,9 +138,7 @@ o	Dunkles Volk spielbar und gebalanced.
 
 ## BUGFIX
 
-
 ## MISC
-
 
 ## Maps
 
