@@ -7,7 +7,7 @@
 o	Vanilla Siedler IV
 
 
-### *CommunityPatch* [4.66.1528]
+### *CommunityPatch* [5.51.1528]
 Allgemeine Features des Community Patches  
 -	Texturenwechsler  
 -	Zusätzliche Optionen für die Spielgeschwindigkeit einstellbar  
