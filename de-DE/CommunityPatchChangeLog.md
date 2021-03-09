@@ -17,7 +17,8 @@ o	HD-Patch
 o	Ranked System  
  
 Änderungen CP
--	Allgemeine Balance Änderungen:  
+-	Allgemeine Balance Änderungen: 
+-	Der Kohle-Bug wurde behoben. 
 -	Die Siedler Anzahl wurde für jeden Spieler auf 65535 gesetzt.     
 -	Die Maximale Träger Anzahl wurde auf 65535 gesetzt    
 -	Ein Bug der dafür sorgen konnte, dass die Musik der Maya nicht mehr spielt wurde behoben.    
