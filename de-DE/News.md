@@ -1,4 +1,7 @@
 # News
-Hier findet ihr die neuste News zum Community Patch.
+Bald ist es soweit, der HD Patch startet in die Beta Phase.
+Habt ihr Interesse das selbst zu Erleben und zu Testen ? 
 
-## Keine aktuellen Nachrichten vorhanden
+Meldet euch doch gerne bei uns im Discord!
+
+
