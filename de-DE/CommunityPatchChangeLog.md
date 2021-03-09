@@ -1,11 +1,5 @@
 
 # Aktuelle Inhalte des Community Patches
-## Weiter unten findet Ihr den aktuellsten Changelog
-
-### *HistoryEdition* [2.50.1516]
-
-o	Vanilla Siedler IV
-
 
 ### *CommunityPatch* [5.51.1528]
 Allgemeine Features des Community Patches  
@@ -96,54 +90,5 @@ o	Stufe 2 Sanitäter haben nur einen Heilwert von 5 statt 4.
 o	Stufe 3 Sanitäter haben nun einen Lebenswert von 150 statt 185.  
 o	Stufe 3 Sanitäter haben nun einen Heilwert von 10 statt 5.  
 
-### *CommunityPatchPTR* [4.3.1]
-
-
-
-o	Alle Änderungen des Community Patches.  
-o	Dunkles Volk spielbar und gebalanced.  
-
-### *HistoryEditionPlus* [1.00.1522]
-  
--	Die Siedler Anzahl wurde für jeden Spieler auf 65535 gesetzt.     
--	Die Maximale Träger Anzahl wurde auf 65535 gesetzt    
--	Ein Bug der dafür sorgen konnte, dass die Musik der Maya nicht mehr spielt wurde behoben.    
--	Ein bisher unbenutztes Lied der Trojaner wurde aktiviert.    
--	Das Ram Limit wurde auf 4GB erhöht.     
--	Eine Meldung zeigt nun fehlerfrei an sobald eine Mine nichts mehr fördert.    
--	Eine Meldung zeigt nun fehlerfrei an sobald eine Fischerhütte keinen Fisch mehr produziert.    
--	Der Anzeigebug der Römerkaserne wurde behoben. Das Anzeigebild des Stufe 3 Schwertkämpfers war zuvor identisch mit dem des Stufe 2 Schwertkämpfers.    
--	Einige Rechtschreibefehler der deutschen Version wurden behoben.   
-
-
-### *CommunityPatchDLC* [v8]
-
-o	Neue Maps wurden Hinzugefügt.  
-
-
-# The Settlers IV Community Patch ChangeLog
-
-## ALLGEMEINE ÄNDERUNGEN
-
-## BALANCE
-
-### ALLE VÖLKER:
-
-### Trojaner
-
-### Römer:
-
-### Maya: 
-
-### Wikinger:
-
-## BUGFIX
-
-## MISC
-
-## Maps
-
-
-  
 
 
