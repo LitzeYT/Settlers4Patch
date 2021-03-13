@@ -1,7 +1,31 @@
 
 # Aktuelle Inhalte des Community Patches
 
-### *CommunityPatch* [5.51.1528]
+### *CommunityPatch* [5.51.1517]
+
+
+Alle Völker:
+Die Rüstung des Hauptmanns wurde von 3 auf 5 erhöht.
+Das Leben wurde von 315 auf 350 erhöht.
+Die zusätzliche Angriffskraft wurde von 20 auf 25% erhöht.
+Trojaner :
+Das Mittlerewohnhaus kostet jetzt 6 Stein und 5 Holz
+Das Großewohnhaus kostet jetzt 12 Stein und 10 Holz.
+Die Trojaner haben durch die größeren Bauplätze 5 planierer mehr am Start
+Der Schaden der Level 3 Rucksackkatapultisten wurde von 13 auf 15 Schaden erhöht.
+Maya:
+Die Level 3 Blasrohrschützen machen jetzt 6 statt 4 Schaden.
+Das Leben wurde von 175 auf 180 erhöht.
+Römer:
+Die Level 3 Sanitäter heilen jetzt 15 statt 10 Leben.
+Die Sanitäter haben jetzt 3 Aufladungen auf ihre Heilung.
+
+
+
+
+
+Alle Features :
+
 Allgemeine Features des Community Patches  
 -	Texturenwechsler  
 -	Zusätzliche Optionen für die Spielgeschwindigkeit einstellbar  
