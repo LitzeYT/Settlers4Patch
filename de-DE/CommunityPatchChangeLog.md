@@ -103,7 +103,7 @@ o	Stufe 3 Axtkämpfer haben nun einen Lebenswert von 180 statt 175.
 o	Stufe 1 Blasrohrschützen haben nun einen Schadenswert von 2 statt 3.  
 o	Stufe 1 Blasrohrschützen haben nun einen Lebenswert von 95 statt 85.  
 o	Stufe 2 Blasrohrschützen haben nun einen Schadenswert von 3 statt 4.  
-o	Stufe 3 Blasrohrschützen haben nun einen Schadenswert von 30 statt 32.  
+o	Stufe 3 Blasrohrschützen haben nun einen Schadenswert von 6 statt 4.  
 o	Stufe 3 Blasrohrschützen haben nun einen Lebenswert von 175 statt 190.  
 o	Die Angriffsgeschwindigkeit aller Blasrohrschützen wurde erhöht.  
 
