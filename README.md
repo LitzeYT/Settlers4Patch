@@ -1,6 +1,8 @@
 # Informationen
 [Downloads und Releases](https://github.com/LitzeYT/Settlers4Patch/releases)
 
+[Discord](https://discord.gg/Vhs3e5N)
+
 [News](https://github.com/LitzeYT/Settlers4Patch/blob/master/News.md)  
 [FAQ](https://github.com/LitzeYT/Settlers4Patch/blob/master/FAQ.md)  
 [Changelog](https://github.com/LitzeYT/Settlers4Patch/blob/master/ChangeLog.md)  
