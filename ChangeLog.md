@@ -17,6 +17,7 @@ o	HD-Patch
 o	Ranked System  
  
 Änderungen CP
+- Die Netzwerkverzögerung wurde Angepasst, sodass es zu weniger DeSycns kommen sollte.
 -	Allgemeine Balance Änderungen:  
 -	Die Siedler Anzahl wurde für jeden Spieler auf 65535 gesetzt.     
 -	Die Maximale Träger Anzahl wurde auf 65535 gesetzt    
