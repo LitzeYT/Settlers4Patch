@@ -112,7 +112,7 @@ o	Stufe 1 Sanitäter haben nun einen Lebenswert von 50 statt 75.
 o	Stufe 2 Sanitäter haben nun einen Lebenswert von 10 statt 120.  
 o	Stufe 2 Sanitäter haben nur einen Heilwert von 5 statt 4.  
 o	Stufe 3 Sanitäter haben nun einen Lebenswert von 150 statt 185.  
-o	Stufe 3 Sanitäter haben nun einen Heilwert von 10 statt 5.  
+o	Stufe 3 Sanitäter haben nun einen Heilwert von 10 statt 15.  
 
 
 
