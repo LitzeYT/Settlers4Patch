@@ -4,6 +4,7 @@
 [News](https://github.com/LitzeYT/Settlers4Patch/blob/master/NewsEN.md)  
 [FAQ](https://github.com/LitzeYT/Settlers4Patch/blob/master/FAQEN.md)  
 [Changelog](https://github.com/LitzeYT/Settlers4Patch/blob/master/ChangeLogEN.md)  
+[Installation instruction video (German)](https://www.youtube.com/watch?v=145BOFN9m2s)
 
 # Disclaimer
 "The Settlers IV Community Patch" is a user-created modification of the proprietary software version "The Settlers IV HE" . The install process changes original files of "The Settlers IV HE". These changes may only be removed by a new installation of the program or by restoring the previously saved files. The installation is solely at your own risk. Neither the creator of this modification, nor the creator of the installation program, nor the distributor of this software disclaims any liability for possible damages to the system or other programs.
