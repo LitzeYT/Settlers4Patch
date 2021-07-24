@@ -95,6 +95,93 @@ o	Stufe 2 Sanitäter haben nur einen Heilwert von 5 statt 4.
 o	Stufe 3 Sanitäter haben nun einen Lebenswert von 150 statt 185.  
 o	Stufe 3 Sanitäter haben nun einen Heilwert von 10 statt 5.  
 
+ [Balance änderungs Test´s]
+ [Alle änderungen sind vorläufig und werden ständig bearbeitet und angepasst]
+ [Bei einwänden, Fragen & Iden gerne im Discord melden]
+ -Römer:
+ Startrecourcen :
+ 
+ +1 Jäger
+ 
+ Baukostenveränderungen :
+ 
+ GO.Mine -1H
+	WER.Schmide +1H
+	Mühle +3S
+	Weinfarm -1H -1S
+	Eselfarm -1H -1S
+	GR.Tempel -2H -1S
+	kl.Tempel -1H +1S
+	Lazaret -1H -1S
+ 
+ -Maja
+ Startrecourcen :
+ 
+ +1 Jäger
+ 
+ Baukostenveränderungen :
+ 
+ Holzfäller -1H
+	Sägewerk-1h -1S
+	Forsthaus -1S
+	gr.Haus -1H -1S
+	Steinmine -1H +1S
+	Get.Farm -1S
+	Tequiladestille -1S
+	Eselfarm +1H -1S
+	kl.tempel -1H
+	Kaserne -1S
+	Ausichtsturm -1S
+	Burg +2H -2S
+ 
+ Wikinger :
+ 
+ Startrecourcen :
+ 
+ +1 Jäger
+ +11 Holz
+ +5 Träger
+ 
+ Baukostenveränderungen :
+ 
+ Gr.Haus -2H
+	Waf.Schmiede -1H
+	Getreide.Farm -1S
+	Schweine.Zucht -1H
+	Wasser -2H
+	Markt +2H -2S
+	kl.Tempel -2S
+	Kaserne -1H
+	Ausichtsturm -1H
+ 
+ Trojaner :
+ 
+ Startrecourcen :
+ 
+ +1 Jäger
+ +3 Bauarbeiter
+ +8 Schaufler
+ +5 Träger
+ +8 Holz
+ +8 Stein
+ 
+ Baukostenveränderungen :
+ 
+Holzfäller +1H -1S
+	kl.haus +2H -1S
+	kohlemine -1S
+	Eisenmine -1S
+	Goldmine -1H
+	Getreidefarm -1S
+	Gänsezucht -1S
+	MArktplatz -1S
+	Eselzucht -2H
+	Gr.Tempel +2H -1S
+	kl.Tempel +2H
+	Kaserne +1S
+	GR.Turm -1H -1S
+	Burg -1H -2S
+
 ### *CommunityPatchPTR* [4.3.1]
 
 
