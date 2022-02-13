@@ -1,5 +1,10 @@
 # Informationen
-[Downloads und Releases](https://github.com/LitzeYT/Settlers4Patch/releases)
+
+Der Community-Patch ist nun ein Teil von Siedler United.
+Der Launcher wird in Zukunft nicht mehr weiterentwickelt werden.
+
+
+[Downloads und Releases](https://settlers-united.com/de/)
 
 [Discord](https://discord.gg/Vhs3e5N)
 
